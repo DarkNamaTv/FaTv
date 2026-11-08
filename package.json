@@ -1,0 +1,16 @@
+{
+  "name": "tv-scrap",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "TV Scrap — TV channel catalog from an encrypted feed: scraper, self-hosted mirror and data.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scrape": "node scripts/scrape-channels.mjs",
+    "scrape:dry": "node scripts/scrape-channels.mjs --dry-run",
+    "validate": "node scripts/validate-catalog.mjs",
+    "test": "node --test \"tests/*.test.mjs\""
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "userAgent": "TVScrap-CatalogBot/1.0 (+https://github.com/DarkNamaTv/FaTv)",
+  "respectRobots": true,
+  "concurrency": 4,
+  "timeoutMs": 20000,
+  "retries": 1,
+  "mergeExisting": true,
+  "output": {
+    "json": "data/channels.json",
+    "csv": "data/seed-data.csv"
+  },
+  "probe": {
+    "enabled": true,
+    "scope": "scraped",
+    "concurrency": 8,
+    "timeoutMs": 12000
+  },
+  "guardrails": {
+    "minChannels": 20,
+    "maxDropRatio": 0.4
+  },
+  "categoryIds": {},
+  "categoryRules": [
+    {
+      "pattern": "news|اخبار|headline|iran\\s*international|ایران\\s*اینترنشنال|voice\\s*of\\s*america|\\bvoa\\b",
+      "category": "اخبار",
+      "categoryEn": "News"
+    },
+    {
+      "pattern": "sport|ورزش|football|فوتبال|wrestl|\\bwwe\\b|\\bufc\\b",
+      "category": "ورزش",
+      "categoryEn": "Sports"
+    },
+    {
+      "pattern": "music|موزیک|موسیقی|radio|رادیو|\\bmtv\\b|\\bvh1\\b",
+      "category": "موزیک",
+      "categoryEn": "Music"
+    },
+    {
+      "pattern": "kid|child|کودک|junior|baby|cartoon|\\btoon\\b|nick|disney|پویا",
+      "category": "کودک و نوجوان",
+      "categoryEn": "Kids & Teens"
+    },
+    {
+      "pattern": "movie|film|سینما|فیلم|series|سریال|cinema|\\bhbo\\b",
+      "category": "فیلم و سریال",
+      "categoryEn": "Movies & Series"
+    },
+    {
+      "pattern": "documentar|مستند|nature|discovery|history|geographic|geo\\s*tv|نشنال",
+      "category": "مستند",
+      "categoryEn": "Documentary"
+    },
+    {
+      "pattern": "quran|قرآن|islam|اسلام|مذهبی|religious|makkah|mecca|karbala|imam|اهل\\s*بیت",
+      "category": "مذهبی",
+      "categoryEn": "Religious"
+    },
+    {
+      "pattern": "افغان|afghan|kabul|کابل",
+      "category": "افغانستان",
+      "categoryEn": "Afghanistan"
+    },
+    {
+      "pattern": "kurd|کردی|کردستان",
+      "category": "کردی",
+      "categoryEn": "Kurdish"
+    },
+    {
+      "pattern": "arab|عربی|\\bmbc\\b|\\bmbs\\b|دبی|سعودی",
+      "category": "عربی",
+      "categoryEn": "Arabic"
+    },
+    {
+      "pattern": "turk|ترکی",
+      "category": "ترکی",
+      "categoryEn": "Turkish"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mytvsat",
+      "kind": "encrypted-json",
+      "role": "scraped",
+      "enabled": true,
+      "url": "mirror/posts",
+      "keyEnv": "MYTVSAT_AES_KEY_HEX",
+      "ivEnv": "MYTVSAT_AES_IV_HEX",
+      "category": "Persian TV",
+      "categoryEn": "Persian TV",
+      "timeoutMs": 30000,
+      "retries": 2,
+      "imageBase": "https://raw.githubusercontent.com/DarkNamaTv/FaTv/main/data/logos/",
+      "upstream": "https://raw.githubusercontent.com/mytvsat/webservice/main/posts"
+    }
+  ]
+}

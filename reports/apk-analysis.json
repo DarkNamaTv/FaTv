@@ -1,0 +1,3248 @@
+{
+  "generatedAt": "2026-11-08T13:51:42.775Z",
+  "ok": true,
+  "errors": [],
+  "apk": {
+    "driveFileId": "1eCh7pcoW1YFXSPLidcf8KjlfJPGZ7_4N",
+    "bytes": 46323501,
+    "sha256": "f5ce3cbf01e98ea038dc676c808cd31cea2df0b0a44ee7b3acb073fc17c8e6e1",
+    "sizeOk": true,
+    "hashOk": true
+  },
+  "inventory": {
+    "totalEntries": 1305,
+    "topDirs": {
+      "META-INF": 90,
+      "assets": 403,
+      "(root)": 31,
+      "lib": 22,
+      "kotlin": 7,
+      "okhttp3": 2,
+      "org": 5,
+      "res": 745
+    },
+    "dex": [
+      {
+        "name": "classes.dex",
+        "bytes": 9793244
+      }
+    ],
+    "nativeLibs": [
+      {
+        "name": "lib/arm64-v8a/libandroidx.graphics.path.so",
+        "bytes": 10096
+      },
+      {
+        "name": "lib/arm64-v8a/libavcodec.so",
+        "bytes": 19393896
+      },
+      {
+        "name": "lib/arm64-v8a/libavdevice.so",
+        "bytes": 756888
+      },
+      {
+        "name": "lib/arm64-v8a/libavfilter.so",
+        "bytes": 8522616
+      },
+      {
+        "name": "lib/arm64-v8a/libavformat.so",
+        "bytes": 6759864
+      },
+      {
+        "name": "lib/arm64-v8a/libavutil.so",
+        "bytes": 524184
+      },
+      {
+        "name": "lib/arm64-v8a/libc++_shared.so",
+        "bytes": 1292896
+      },
+      {
+        "name": "lib/arm64-v8a/libffmpegkit.so",
+        "bytes": 496360
+      },
+      {
+        "name": "lib/arm64-v8a/libffmpegkit_abidetect.so",
+        "bytes": 30736
+      },
+      {
+        "name": "lib/arm64-v8a/libswresample.so",
+        "bytes": 205160
+      },
+      {
+        "name": "lib/arm64-v8a/libswscale.so",
+        "bytes": 315568
+      },
+      {
+        "name": "lib/armeabi-v7a/libandroidx.graphics.path.so",
+        "bytes": 7252
+      },
+      {
+        "name": "lib/armeabi-v7a/libavcodec.so",
+        "bytes": 17430868
+      },
+      {
+        "name": "lib/armeabi-v7a/libavdevice.so",
+        "bytes": 691372
+      },
+      {
+        "name": "lib/armeabi-v7a/libavfilter.so",
+        "bytes": 7631200
+      },
+      {
+        "name": "lib/armeabi-v7a/libavformat.so",
+        "bytes": 5922036
+      },
+      {
+        "name": "lib/armeabi-v7a/libavutil.so",
+        "bytes": 437100
+      },
+      {
+        "name": "lib/armeabi-v7a/libc++_shared.so",
+        "bytes": 911460
+      },
+      {
+        "name": "lib/armeabi-v7a/libffmpegkit.so",
+        "bytes": 488932
+      },
+      {
+        "name": "lib/armeabi-v7a/libffmpegkit_abidetect.so",
+        "bytes": 17548
+      },
+      {
+        "name": "lib/armeabi-v7a/libswresample.so",
+        "bytes": 215624
+      },
+      {
+        "name": "lib/armeabi-v7a/libswscale.so",
+        "bytes": 315388
+      }
+    ],
+    "assetCount": 403,
+    "assets": [
+      {
+        "name": "assets/dexopt/baseline.prof",
+        "bytes": 7021
+      },
+      {
+        "name": "assets/dexopt/baseline.profm",
+        "bytes": 859
+      },
+      {
+        "name": "assets/card_movies.svg",
+        "bytes": 3064
+      },
+      {
+        "name": "assets/card_sports.svg",
+        "bytes": 3320
+      },
+      {
+        "name": "assets/card_worldcup.svg",
+        "bytes": 3216
+      },
+      {
+        "name": "assets/licenses/vazirmatn_OFL.txt",
+        "bytes": 4391
+      },
+      {
+        "name": "assets/upload/1182140219436.png",
+        "bytes": 5465
+      },
+      {
+        "name": "assets/upload/1722612066740.png",
+        "bytes": 51033
+      },
+      {
+        "name": "assets/upload/1781140219446.jpg",
+        "bytes": 5105
+      },
+      {
+        "name": "assets/upload/1781724403123.jpg",
+        "bytes": 5619
+      },
+      {
+        "name": "assets/upload/1781756797105.png",
+        "bytes": 5483
+      },
+      {
+        "name": "assets/upload/1781975470004.jpg",
+        "bytes": 18128
+      },
+      {
+        "name": "assets/upload/1782013217451.jpg",
+        "bytes": 18128
+      },
+      {
+        "name": "assets/upload/1782140219404.png",
+        "bytes": 3721
+      },
+      {
+        "name": "assets/upload/1782140219405.png",
+        "bytes": 3495
+      },
+      {
+        "name": "assets/upload/1782140219406.jpg",
+        "bytes": 2427
+      },
+      {
+        "name": "assets/upload/1782140219407.jpg",
+        "bytes": 2853
+      },
+      {
+        "name": "assets/upload/1782140219408.jpg",
+        "bytes": 23103
+      },
+      {
+        "name": "assets/upload/1782140219409.png",
+        "bytes": 4140
+      },
+      {
+        "name": "assets/upload/1782140219410.jpg",
+        "bytes": 20842
+      },
+      {
+        "name": "assets/upload/1782140219411.jpg",
+        "bytes": 6202
+      },
+      {
+        "name": "assets/upload/1782140219412.jpg",
+        "bytes": 3141
+      },
+      {
+        "name": "assets/upload/1782140219413.jpg",
+        "bytes": 9089
+      },
+      {
+        "name": "assets/upload/1782140219414.jpg",
+        "bytes": 4234
+      },
+      {
+        "name": "assets/upload/1782140219415.png",
+        "bytes": 11439
+      },
+      {
+        "name": "assets/upload/1782140219416.png",
+        "bytes": 6219
+      },
+      {
+        "name": "assets/upload/1782140219417.jpg",
+        "bytes": 10560
+      },
+      {
+        "name": "assets/upload/1782140219418.png",
+        "bytes": 15198
+      },
+      {
+        "name": "assets/upload/1782140219419.png",
+        "bytes": 8483
+      },
+      {
+        "name": "assets/upload/1782140219420.png",
+        "bytes": 10026
+      },
+      {
+        "name": "assets/upload/1782140219421.png",
+        "bytes": 16340
+      },
+      {
+        "name": "assets/upload/1782140219422.png",
+        "bytes": 16820
+      },
+      {
+        "name": "assets/upload/1782140219423.png",
+        "bytes": 18070
+      },
+      {
+        "name": "assets/upload/1782140219424.jpg",
+        "bytes": 4434
+      },
+      {
+        "name": "assets/upload/1782140219424.png",
+        "bytes": 20120
+      },
+      {
+        "name": "assets/upload/1782140219425.png",
+        "bytes": 8143
+      },
+      {
+        "name": "assets/upload/1782140219426.png",
+        "bytes": 13643
+      },
+      {
+        "name": "assets/upload/1782140219427.png",
+        "bytes": 18655
+      },
+      {
+        "name": "assets/upload/1782140219428.png",
+        "bytes": 14336
+      },
+      {
+        "name": "assets/upload/1782140219429.png",
+        "bytes": 12930
+      },
+      {
+        "name": "assets/upload/1782140219430.png",
+        "bytes": 8213
+      },
+      {
+        "name": "assets/upload/1782140219431.png",
+        "bytes": 13224
+      },
+      {
+        "name": "assets/upload/1782140219432.png",
+        "bytes": 23258
+      },
+      {
+        "name": "assets/upload/1782140219433.png",
+        "bytes": 25771
+      },
+      {
+        "name": "assets/upload/1782140219434.jpg",
+        "bytes": 9379
+      },
+      {
+        "name": "assets/upload/1782140219435.png",
+        "bytes": 11437
+      },
+      {
+        "name": "assets/upload/1782140219436.png",
+        "bytes": 11804
+      },
+      {
+        "name": "assets/upload/1782140219437.png",
+        "bytes": 12648
+      },
+      {
+        "name": "assets/upload/1782140219438.jpg",
+        "bytes": 16191
+      },
+      {
+        "name": "assets/upload/1782140219439.jpg",
+        "bytes": 9547
+      },
+      {
+        "name": "assets/upload/1782140219440.jpg",
+        "bytes": 26518
+      },
+      {
+        "name": "assets/upload/1782140219441.jpg",
+        "bytes": 19230
+      },
+      {
+        "name": "assets/upload/1782140219442.jpg",
+        "bytes": 5619
+      },
+      {
+        "name": "assets/upload/1782140219443.png",
+        "bytes": 5483
+      },
+      {
+        "name": "assets/upload/1782140219444.jpg",
+        "bytes": 18128
+      },
+      {
+        "name": "assets/upload/1782140219445.png",
+        "bytes": 30795
+      },
+      {
+        "name": "assets/upload/1782140219446.jpg",
+        "bytes": 4672
+      },
+      {
+        "name": "assets/upload/1782140219447.jpg",
+        "bytes": 2218
+      },
+      {
+        "name": "assets/upload/1782140219448.jpg",
+        "bytes": 9101
+      },
+      {
+        "name": "assets/upload/1782140219449.jpg",
+        "bytes": 11667
+      },
+      {
+        "name": "assets/upload/1782140219450.jpg",
+        "bytes": 7077
+      },
+      {
+        "name": "assets/upload/1782140219451.jpg",
+        "bytes": 4948
+      },
+      {
+        "name": "assets/upload/1782140219452.jpg",
+        "bytes": 5136
+      },
+      {
+        "name": "assets/upload/1782140219453.jpg",
+        "bytes": 2551
+      },
+      {
+        "name": "assets/upload/1782140219454.png",
+        "bytes": 7682
+      },
+      {
+        "name": "assets/upload/1782140219455.jpg",
+        "bytes": 2619
+      },
+      {
+        "name": "assets/upload/1782140219456.png",
+        "bytes": 3104
+      },
+      {
+        "name": "assets/upload/1782140219457.png",
+        "bytes": 1372
+      },
+      {
+        "name": "assets/upload/1782140219458.png",
+        "bytes": 11807
+      },
+      {
+        "name": "assets/upload/1782140219459.png",
+        "bytes": 2594
+      },
+      {
+        "name": "assets/upload/1782140219460.png",
+        "bytes": 3594
+      },
+      {
+        "name": "assets/upload/1782140219461.png",
+        "bytes": 3363
+      },
+      {
+        "name": "assets/upload/1782140219462.png",
+        "bytes": 9562
+      },
+      {
+        "name": "assets/upload/1782140219463.png",
+        "bytes": 8169
+      },
+      {
+        "name": "assets/upload/1782140219464.png",
+        "bytes": 9969
+      },
+      {
+        "name": "assets/upload/1782140219465.png",
+        "bytes": 13018
+      },
+      {
+        "name": "assets/upload/1782140219466.png",
+        "bytes": 7259
+      },
+      {
+        "name": "assets/upload/1782140219467.jpg",
+        "bytes": 3627
+      },
+      {
+        "name": "assets/upload/1782140219468.jpg",
+        "bytes": 2619
+      },
+      {
+        "name": "assets/upload/1782140219469.png",
+        "bytes": 581
+      },
+      {
+        "name": "assets/upload/1782140219470.jpg",
+        "bytes": 1553
+      },
+      {
+        "name": "assets/upload/1782140219471.jpg",
+        "bytes": 2333
+      },
+      {
+        "name": "assets/upload/1782140219472.jpg",
+        "bytes": 4652
+      },
+      {
+        "name": "assets/upload/1782140219473.png",
+        "bytes": 1812
+      },
+      {
+        "name": "assets/upload/1782140219474.jpg",
+        "bytes": 2421
+      },
+      {
+        "name": "assets/upload/1782140219475.jpg",
+        "bytes": 3676
+      },
+      {
+        "name": "assets/upload/1782140219476.png",
+        "bytes": 1401
+      },
+      {
+        "name": "assets/upload/1782140219477.png",
+        "bytes": 1983
+      },
+      {
+        "name": "assets/upload/1782140219478.png",
+        "bytes": 3764
+      },
+      {
+        "name": "assets/upload/1782140219479.jpg",
+        "bytes": 5216
+      },
+      {
+        "name": "assets/upload/1782140219480.png",
+        "bytes": 12954
+      },
+      {
+        "name": "assets/upload/1782140219481.png",
+        "bytes": 3602
+      },
+      {
+        "name": "assets/upload/1782140219482.png",
+        "bytes": 11088
+      },
+      {
+        "name": "assets/upload/1782140219483.png",
+        "bytes": 3504
+      },
+      {
+        "name": "assets/upload/1782140219484.png",
+        "bytes": 5977
+      },
+      {
+        "name": "assets/upload/1782140219485.png",
+        "bytes": 11181
+      },
+      {
+        "name": "assets/upload/1782140219486.png",
+        "bytes": 11867
+      },
+      {
+        "name": "assets/upload/1782140219487.png",
+        "bytes": 7062
+      },
+      {
+        "name": "assets/upload/1782140219488.png",
+        "bytes": 12948
+      },
+      {
+        "name": "assets/upload/1782140219489.png",
+        "bytes": 4632
+      },
+      {
+        "name": "assets/upload/1782140219490.png",
+        "bytes": 2281
+      },
+      {
+        "name": "assets/upload/1782140219491.png",
+        "bytes": 3391
+      },
+      {
+        "name": "assets/upload/1782140219492.png",
+        "bytes": 8715
+      },
+      {
+        "name": "assets/upload/1782140219493.png",
+        "bytes": 17223
+      },
+      {
+        "name": "assets/upload/1782140219494.png",
+        "bytes": 4640
+      },
+      {
+        "name": "assets/upload/1782140219495.jpg",
+        "bytes": 5919
+      },
+      {
+        "name": "assets/upload/1782140219496.png",
+        "bytes": 7466
+      },
+      {
+        "name": "assets/upload/1782140219497.png",
+        "bytes": 8672
+      },
+      {
+        "name": "assets/upload/1782140219498.png",
+        "bytes": 11804
+      },
+      {
+        "name": "assets/upload/1782140219499.jpg",
+        "bytes": 14647
+      },
+      {
+        "name": "assets/upload/1782140219500.png",
+        "bytes": 7381
+      },
+      {
+        "name": "assets/upload/1782140219501.png",
+        "bytes": 12808
+      },
+      {
+        "name": "assets/upload/1782140219502.png",
+        "bytes": 2322
+      },
+      {
+        "name": "assets/upload/1782140219503.png",
+        "bytes": 8712
+      },
+      {
+        "name": "assets/upload/1782140219504.png",
+        "bytes": 2835
+      },
+      {
+        "name": "assets/upload/1782140219505.png",
+        "bytes": 9546
+      },
+      {
+        "name": "assets/upload/1782140219506.png",
+        "bytes": 7209
+      },
+      {
+        "name": "assets/upload/1782140219507.png",
+        "bytes": 13873
+      },
+      {
+        "name": "assets/upload/1782140219508.png",
+        "bytes": 5637
+      },
+      {
+        "name": "assets/upload/1782140219509.png",
+        "bytes": 3216
+      },
+      {
+        "name": "assets/upload/1782140219510.png",
+        "bytes": 7611
+      },
+      {
+        "name": "assets/upload/1782140219511.png",
+        "bytes": 2878
+      },
+      {
+        "name": "assets/upload/1782140219512.png",
+        "bytes": 4178
+      },
+      {
+        "name": "assets/upload/1782140219513.png",
+        "bytes": 5506
+      },
+      {
+        "name": "assets/upload/1782140219514.png",
+        "bytes": 5207
+      },
+      {
+        "name": "assets/upload/1782140219515.png",
+        "bytes": 16688
+      },
+      {
+        "name": "assets/upload/1782140219516.png",
+        "bytes": 2807
+      },
+      {
+        "name": "assets/upload/1782140219517.png",
+        "bytes": 3824
+      },
+      {
+        "name": "assets/upload/1782140219518.png",
+        "bytes": 7478
+      },
+      {
+        "name": "assets/upload/1782140219519.png",
+        "bytes": 9921
+      },
+      {
+        "name": "assets/upload/1782140219520.png",
+        "bytes": 4289
+      },
+      {
+        "name": "assets/upload/1782140219521.png",
+        "bytes": 14018
+      },
+      {
+        "name": "assets/upload/1782140219522.png",
+        "bytes": 6834
+      },
+      {
+        "name": "assets/upload/1782140219523.png",
+        "bytes": 7277
+      },
+      {
+        "name": "assets/upload/1782140219524.png",
+        "bytes": 3936
+      },
+      {
+        "name": "assets/upload/1782140219525.png",
+        "bytes": 8713
+      },
+      {
+        "name": "assets/upload/1782140219526.jpg",
+        "bytes": 25202
+      },
+      {
+        "name": "assets/upload/1782140219527.jpg",
+        "bytes": 3299
+      },
+      {
+        "name": "assets/upload/1782140219528.png",
+        "bytes": 3105
+      },
+      {
+        "name": "assets/upload/1782140219529.png",
+        "bytes": 4742
+      },
+      {
+        "name": "assets/upload/1782140219530.png",
+        "bytes": 643
+      },
+      {
+        "name": "assets/upload/1782140219531.png",
+        "bytes": 1721
+      },
+      {
+        "name": "assets/upload/1782140219532.png",
+        "bytes": 6301
+      },
+      {
+        "name": "assets/upload/1782140219533.png",
+        "bytes": 25989
+      },
+      {
+        "name": "assets/upload/1782140219534.jpg",
+        "bytes": 17212
+      },
+      {
+        "name": "assets/upload/1782140219535.png",
+        "bytes": 5127
+      },
+      {
+        "name": "assets/upload/1782140219536.png",
+        "bytes": 10433
+      },
+      {
+        "name": "assets/upload/1782140219537.png",
+        "bytes": 8897
+      },
+      {
+        "name": "assets/upload/1782140219538.png",
+        "bytes": 6976
+      },
+      {
+        "name": "assets/upload/1782140219539.png",
+        "bytes": 9086
+      },
+      {
+        "name": "assets/upload/1782140219540.png",
+        "bytes": 8995
+      },
+      {
+        "name": "assets/upload/1782140219541.png",
+        "bytes": 8712
+      },
+      {
+        "name": "assets/upload/1782140219542.png",
+        "bytes": 8502
+      },
+      {
+        "name": "assets/upload/1782140219543.png",
+        "bytes": 8739
+      },
+      {
+        "name": "assets/upload/1782140219544.png",
+        "bytes": 8778
+      },
+      {
+        "name": "assets/upload/1782140219545.png",
+        "bytes": 7953
+      },
+      {
+        "name": "assets/upload/1782140219546.png",
+        "bytes": 7298
+      },
+      {
+        "name": "assets/upload/1782140219547.png",
+        "bytes": 6512
+      },
+      {
+        "name": "assets/upload/1782140219548.png",
+        "bytes": 8595
+      },
+      {
+        "name": "assets/upload/1782140219549.png",
+        "bytes": 8513
+      },
+      {
+        "name": "assets/upload/1782140219550.png",
+        "bytes": 9702
+      },
+      {
+        "name": "assets/upload/1782140219551.png",
+        "bytes": 8355
+      },
+      {
+        "name": "assets/upload/1782140219552.png",
+        "bytes": 6369
+      },
+      {
+        "name": "assets/upload/1782140219553.png",
+        "bytes": 7750
+      },
+      {
+        "name": "assets/upload/1782140219554.png",
+        "bytes": 7790
+      },
+      {
+        "name": "assets/upload/1782140219555.png",
+        "bytes": 8374
+      },
+      {
+        "name": "assets/upload/1782140219556.png",
+        "bytes": 8604
+      },
+      {
+        "name": "assets/upload/1782140219557.png",
+        "bytes": 7714
+      },
+      {
+        "name": "assets/upload/1782140219558.png",
+        "bytes": 10237
+      },
+      {
+        "name": "assets/upload/1782140219559.png",
+        "bytes": 8523
+      },
+      {
+        "name": "assets/upload/1782140219560.png",
+        "bytes": 8369
+      },
+      {
+        "name": "assets/upload/1782140219561.png",
+        "bytes": 4424
+      },
+      {
+        "name": "assets/upload/1782140219562.png",
+        "bytes": 6808
+      },
+      {
+        "name": "assets/upload/1782140219563.png",
+        "bytes": 7033
+      },
+      {
+        "name": "assets/upload/1782140219564.png",
+        "bytes": 1996
+      },
+      {
+        "name": "assets/upload/1782140219565.png",
+        "bytes": 10019
+      },
+      {
+        "name": "assets/upload/1782140219566.png",
+        "bytes": 2607
+      },
+      {
+        "name": "assets/upload/1782140219567.jpg",
+        "bytes": 8151
+      },
+      {
+        "name": "assets/upload/1782140219568.png",
+        "bytes": 10795
+      },
+      {
+        "name": "assets/upload/1782140219569.png",
+        "bytes": 91481
+      },
+      {
+        "name": "assets/upload/1782140219570.png",
+        "bytes": 14988
+      },
+      {
+        "name": "assets/upload/1782140219571.png",
+        "bytes": 4216
+      },
+      {
+        "name": "assets/upload/1782140219572.png",
+        "bytes": 12662
+      },
+      {
+        "name": "assets/upload/1782140219573.png",
+        "bytes": 4125
+      },
+      {
+        "name": "assets/upload/1782140219574.jpg",
+        "bytes": 6313
+      },
+      {
+        "name": "assets/upload/1782140219575.jpg",
+        "bytes": 7327
+      },
+      {
+        "name": "assets/upload/1782140219576.png",
+        "bytes": 16415
+      },
+      {
+        "name": "assets/upload/1782140219577.jpg",
+        "bytes": 20298
+      },
+      {
+        "name": "assets/upload/1782140219578.png",
+        "bytes": 3314
+      },
+      {
+        "name": "assets/upload/1782140219579.png",
+        "bytes": 17135
+      },
+      {
+        "name": "assets/upload/1782140219580.jpg",
+        "bytes": 4193
+      },
+      {
+        "name": "assets/upload/1782140219581.png",
+        "bytes": 5000
+      },
+      {
+        "name": "assets/upload/1782140219582.png",
+        "bytes": 8369
+      },
+      {
+        "name": "assets/upload/1782140219583.png",
+        "bytes": 6290
+      },
+      {
+        "name": "assets/upload/1782140219584.png",
+        "bytes": 2272
+      },
+      {
+        "name": "assets/upload/1782140219585.jpg",
+        "bytes": 1755
+      },
+      {
+        "name": "assets/upload/1782140219586.png",
+        "bytes": 14509
+      },
+      {
+        "name": "assets/upload/1782140219587.png",
+        "bytes": 20651
+      },
+      {
+        "name": "assets/upload/1782140219588.png",
+        "bytes": 3182
+      },
+      {
+        "name": "assets/upload/1782140219589.jpg",
+        "bytes": 8684
+      },
+      {
+        "name": "assets/upload/1782140219590.png",
+        "bytes": 10573
+      },
+      {
+        "name": "assets/upload/1782140219591.png",
+        "bytes": 12288
+      },
+      {
+        "name": "assets/upload/1782140219592.png",
+        "bytes": 5155
+      },
+      {
+        "name": "assets/upload/1782140219593.png",
+        "bytes": 1372
+      },
+      {
+        "name": "assets/upload/1782140219594.png",
+        "bytes": 6651
+      },
+      {
+        "name": "assets/upload/1782140219595.png",
+        "bytes": 8029
+      },
+      {
+        "name": "assets/upload/1782140219596.jpg",
+        "bytes": 2516
+      },
+      {
+        "name": "assets/upload/1782140219597.jpg",
+        "bytes": 6058
+      },
+      {
+        "name": "assets/upload/1782140219598.png",
+        "bytes": 2458
+      },
+      {
+        "name": "assets/upload/1782140219599.png",
+        "bytes": 4477
+      },
+      {
+        "name": "assets/upload/1782140219600.png",
+        "bytes": 1933
+      },
+      {
+        "name": "assets/upload/1782140219601.png",
+        "bytes": 2624
+      },
+      {
+        "name": "assets/upload/1782140219602.png",
+        "bytes": 2710
+      },
+      {
+        "name": "assets/upload/1782140219603.png",
+        "bytes": 1612
+      },
+      {
+        "name": "assets/upload/1782140219604.png",
+        "bytes": 1806
+      },
+      {
+        "name": "assets/upload/1782140219605.png",
+        "bytes": 1828
+      },
+      {
+        "name": "assets/upload/1782140219606.png",
+        "bytes": 2704
+      },
+      {
+        "name": "assets/upload/1782140219607.png",
+        "bytes": 2413
+      },
+      {
+        "name": "assets/upload/1782140219608.png",
+        "bytes": 2509
+      },
+      {
+        "name": "assets/upload/1782140219609.png",
+        "bytes": 1789
+      },
+      {
+        "name": "assets/upload/1782140219610.png",
+        "bytes": 1391
+      },
+      {
+        "name": "assets/upload/1782140219611.png",
+        "bytes": 2015
+      },
+      {
+        "name": "assets/upload/1782140219612.png",
+        "bytes": 2882
+      },
+      {
+        "name": "assets/upload/1782140219613.png",
+        "bytes": 1692
+      },
+      {
+        "name": "assets/upload/1782140219614.png",
+        "bytes": 1811
+      },
+      {
+        "name": "assets/upload/1782140219615.png",
+        "bytes": 2279
+      },
+      {
+        "name": "assets/upload/1782140219616.png",
+        "bytes": 3144
+      },
+      {
+        "name": "assets/upload/1782140219617.png",
+        "bytes": 1922
+      },
+      {
+        "name": "assets/upload/1782140219618.png",
+        "bytes": 2062
+      },
+      {
+        "name": "assets/upload/1782140219619.png",
+        "bytes": 1771
+      },
+      {
+        "name": "assets/upload/1782140219620.png",
+        "bytes": 2898
+      },
+      {
+        "name": "assets/upload/1782140219621.png",
+        "bytes": 4180
+      },
+      {
+        "name": "assets/upload/1782140219622.png",
+        "bytes": 2751
+      },
+      {
+        "name": "assets/upload/1782140219623.png",
+        "bytes": 1903
+      },
+      {
+        "name": "assets/upload/1782140219624.png",
+        "bytes": 1472
+      },
+      {
+        "name": "assets/upload/1782140219625.png",
+        "bytes": 1691
+      },
+      {
+        "name": "assets/upload/1782140219626.png",
+        "bytes": 2415
+      },
+      {
+        "name": "assets/upload/1782140219627.png",
+        "bytes": 1813
+      },
+      {
+        "name": "assets/upload/1782140219628.png",
+        "bytes": 1566
+      },
+      {
+        "name": "assets/upload/1782140219629.png",
+        "bytes": 1907
+      },
+      {
+        "name": "assets/upload/1782140219630.png",
+        "bytes": 1759
+      },
+      {
+        "name": "assets/upload/1782140219631.png",
+        "bytes": 7251
+      },
+      {
+        "name": "assets/upload/1782140219632.png",
+        "bytes": 7080
+      },
+      {
+        "name": "assets/upload/1782140219633.png",
+        "bytes": 11373
+      },
+      {
+        "name": "assets/upload/1782140219634.png",
+        "bytes": 11585
+      },
+      {
+        "name": "assets/upload/1782140219635.jpg",
+        "bytes": 2792
+      },
+      {
+        "name": "assets/upload/1782140219636.gif",
+        "bytes": 9635
+      },
+      {
+        "name": "assets/upload/1782140219637.jpg",
+        "bytes": 6165
+      },
+      {
+        "name": "assets/upload/1782140219638.gif",
+        "bytes": 8031
+      },
+      {
+        "name": "assets/upload/1782140219639.png",
+        "bytes": 5548
+      },
+      {
+        "name": "assets/upload/1782140219640.png",
+        "bytes": 3106
+      },
+      {
+        "name": "assets/upload/1782140219641.png",
+        "bytes": 7224
+      },
+      {
+        "name": "assets/upload/1782140219642.png",
+        "bytes": 4313
+      },
+      {
+        "name": "assets/upload/1782140219643.jpg",
+        "bytes": 19131
+      },
+      {
+        "name": "assets/upload/1782140219644.png",
+        "bytes": 5698
+      },
+      {
+        "name": "assets/upload/1782140219645.png",
+        "bytes": 8010
+      },
+      {
+        "name": "assets/upload/1782140219646.png",
+        "bytes": 10655
+      },
+      {
+        "name": "assets/upload/1782140219647.jpg",
+        "bytes": 4674
+      },
+      {
+        "name": "assets/upload/1782140219648.png",
+        "bytes": 27760
+      },
+      {
+        "name": "assets/upload/1782140219649.png",
+        "bytes": 2659
+      },
+      {
+        "name": "assets/upload/1782140219650.png",
+        "bytes": 7506
+      },
+      {
+        "name": "assets/upload/1782140219651.png",
+        "bytes": 10590
+      },
+      {
+        "name": "assets/upload/1782140219652.png",
+        "bytes": 4323
+      },
+      {
+        "name": "assets/upload/1782140219653.png",
+        "bytes": 3849
+      },
+      {
+        "name": "assets/upload/1782140219654.png",
+        "bytes": 1070
+      },
+      {
+        "name": "assets/upload/1782140219655.png",
+        "bytes": 8174
+      },
+      {
+        "name": "assets/upload/1782140219656.png",
+        "bytes": 3727
+      },
+      {
+        "name": "assets/upload/1782140219657.png",
+        "bytes": 4554
+      },
+      {
+        "name": "assets/upload/1782140219658.png",
+        "bytes": 19343
+      },
+      {
+        "name": "assets/upload/1782140219659.png",
+        "bytes": 3014
+      },
+      {
+        "name": "assets/upload/1782140219660.png",
+        "bytes": 4839
+      },
+      {
+        "name": "assets/upload/1782140219661.png",
+        "bytes": 5547
+      },
+      {
+        "name": "assets/upload/1782140219662.png",
+        "bytes": 11402
+      },
+      {
+        "name": "assets/upload/1782140219663.png",
+        "bytes": 5957
+      },
+      {
+        "name": "assets/upload/1782140219664.png",
+        "bytes": 6127
+      },
+      {
+        "name": "assets/upload/1782140219665.png",
+        "bytes": 6452
+      },
+      {
+        "name": "assets/upload/1782140219666.png",
+        "bytes": 5052
+      },
+      {
+        "name": "assets/upload/1782140219667.png",
+        "bytes": 6853
+      },
+      {
+        "name": "assets/upload/1782140219668.png",
+        "bytes": 8987
+      },
+      {
+        "name": "assets/upload/1782140219669.jpg",
+        "bytes": 5111
+      },
+      {
+        "name": "assets/upload/1782140219670.png",
+        "bytes": 8879
+      },
+      {
+        "name": "assets/upload/1782140219671.png",
+        "bytes": 8727
+      },
+      {
+        "name": "assets/upload/1782140219672.png",
+        "bytes": 10735
+      },
+      {
+        "name": "assets/upload/1782140219673.jpg",
+        "bytes": 6327
+      },
+      {
+        "name": "assets/upload/1782140219674.png",
+        "bytes": 6370
+      },
+      {
+        "name": "assets/upload/1782140219675.png",
+        "bytes": 17018
+      },
+      {
+        "name": "assets/upload/1782140219676.jpg",
+        "bytes": 10547
+      },
+      {
+        "name": "assets/upload/1782140219677.png",
+        "bytes": 10889
+      },
+      {
+        "name": "assets/upload/1782140219678.png",
+        "bytes": 2614
+      },
+      {
+        "name": "assets/upload/1782140219679.png",
+        "bytes": 10212
+      },
+      {
+        "name": "assets/upload/1782140219680.jpg",
+        "bytes": 5346
+      },
+      {
+        "name": "assets/upload/1782140219681.png",
+        "bytes": 14050
+      },
+      {
+        "name": "assets/upload/1782140219682.png",
+        "bytes": 3154
+      },
+      {
+        "name": "assets/upload/1782140219683.png",
+        "bytes": 3364
+      },
+      {
+        "name": "assets/upload/1782140219684.png",
+        "bytes": 8740
+      },
+      {
+        "name": "assets/upload/1782140219685.png",
+        "bytes": 9014
+      },
+      {
+        "name": "assets/upload/1782140219686.jpg",
+        "bytes": 3348
+      },
+      {
+        "name": "assets/upload/1782140219687.jpg",
+        "bytes": 7187
+      },
+      {
+        "name": "assets/upload/1782140219688.png",
+        "bytes": 75596
+      },
+      {
+        "name": "assets/upload/1782140219689.png",
+        "bytes": 1631
+      },
+      {
+        "name": "assets/upload/1782140219690.png",
+        "bytes": 1995
+      },
+      {
+        "name": "assets/upload/1782140219691.png",
+        "bytes": 1488
+      },
+      {
+        "name": "assets/upload/1782140219692.png",
+        "bytes": 2036
+      },
+      {
+        "name": "assets/upload/1782140219693.png",
+        "bytes": 1837
+      },
+      {
+        "name": "assets/upload/1782140219694.png",
+        "bytes": 2595
+      },
+      {
+        "name": "assets/upload/1782140219695.png",
+        "bytes": 1086
+      },
+      {
+        "name": "assets/upload/1782140219696.png",
+        "bytes": 1323
+      },
+      {
+        "name": "assets/upload/1782140219697.png",
+        "bytes": 3362
+      },
+      {
+        "name": "assets/upload/1782140219698.png",
+        "bytes": 3236
+      },
+      {
+        "name": "assets/upload/1782140219699.png",
+        "bytes": 1623
+      },
+      {
+        "name": "assets/upload/1782140219700.png",
+        "bytes": 3398
+      },
+      {
+        "name": "assets/upload/1782140219701.png",
+        "bytes": 2381
+      },
+      {
+        "name": "assets/upload/1782140219702.png",
+        "bytes": 1485
+      },
+      {
+        "name": "assets/upload/1782140219703.png",
+        "bytes": 1853
+      },
+      {
+        "name": "assets/upload/1782140219704.png",
+        "bytes": 1651
+      },
+      {
+        "name": "assets/upload/1782140219705.png",
+        "bytes": 2355
+      },
+      {
+        "name": "assets/upload/1782140219706.png",
+        "bytes": 1943
+      },
+      {
+        "name": "assets/upload/1782140219707.png",
+        "bytes": 2703
+      },
+      {
+        "name": "assets/upload/1782140219708.png",
+        "bytes": 1964
+      },
+      {
+        "name": "assets/upload/1782140219709.png",
+        "bytes": 4405
+      },
+      {
+        "name": "assets/upload/1782140219710.png",
+        "bytes": 1926
+      },
+      {
+        "name": "assets/upload/1782140219711.png",
+        "bytes": 1729
+      },
+      {
+        "name": "assets/upload/1782140219712.png",
+        "bytes": 2192
+      },
+      {
+        "name": "assets/upload/1782140219713.png",
+        "bytes": 4171
+      },
+      {
+        "name": "assets/upload/1782140219714.jpg",
+        "bytes": 8573
+      },
+      {
+        "name": "assets/upload/1782140219715.png",
+        "bytes": 7188
+      },
+      {
+        "name": "assets/upload/1782140219716.png",
+        "bytes": 11028
+      },
+      {
+        "name": "assets/upload/1782140219717.jpg",
+        "bytes": 7301
+      },
+      {
+        "name": "assets/upload/1782140219718.png",
+        "bytes": 14598
+      },
+      {
+        "name": "assets/upload/1782140219719.jpeg",
+        "bytes": 2819
+      },
+      {
+        "name": "assets/upload/1782140219720.png",
+        "bytes": 3849
+      },
+      {
+        "name": "assets/upload/1782140219721.png",
+        "bytes": 13046
+      },
+      {
+        "name": "assets/upload/1782140219722.png",
+        "bytes": 6187
+      },
+      {
+        "name": "assets/upload/1782140219723.png",
+        "bytes": 5641
+      },
+      {
+        "name": "assets/upload/1782140219724.png",
+        "bytes": 6255
+      },
+      {
+        "name": "assets/upload/1782140219725.png",
+        "bytes": 4296
+      },
+      {
+        "name": "assets/upload/1782140219726.png",
+        "bytes": 2554
+      },
+      {
+        "name": "assets/upload/1782140219727.png",
+        "bytes": 3499
+      },
+      {
+        "name": "assets/upload/1782140219728.png",
+        "bytes": 2928
+      },
+      {
+        "name": "assets/upload/1782140219729.png",
+        "bytes": 2633
+      },
+      {
+        "name": "assets/upload/1782140219730.png",
+        "bytes": 2589
+      },
+      {
+        "name": "assets/upload/1782140219731.png",
+        "bytes": 2546
+      },
+      {
+        "name": "assets/upload/1782140219732.png",
+        "bytes": 2601
+      },
+      {
+        "name": "assets/upload/1782140219733.png",
+        "bytes": 5172
+      },
+      {
+        "name": "assets/upload/1782140219734.png",
+        "bytes": 13183
+      },
+      {
+        "name": "assets/upload/1782140219735.png",
+        "bytes": 11110
+      },
+      {
+        "name": "assets/upload/1782140219736.png",
+        "bytes": 4665
+      },
+      {
+        "name": "assets/upload/1782140219737.png",
+        "bytes": 15777
+      },
+      {
+        "name": "assets/upload/1782140219738.png",
+        "bytes": 1767
+      },
+      {
+        "name": "assets/upload/1782140219739.png",
+        "bytes": 2895
+      },
+      {
+        "name": "assets/upload/1782140219740.png",
+        "bytes": 1259
+      },
+      {
+        "name": "assets/upload/1782140219741.png",
+        "bytes": 5736
+      },
+      {
+        "name": "assets/upload/1782140219742.png",
+        "bytes": 3024
+      },
+      {
+        "name": "assets/upload/1782140219743.png",
+        "bytes": 7751
+      },
+      {
+        "name": "assets/upload/1782140219744.png",
+        "bytes": 3519
+      },
+      {
+        "name": "assets/upload/1782140219745.png",
+        "bytes": 15778
+      },
+      {
+        "name": "assets/upload/1782140219746.png",
+        "bytes": 6814
+      },
+      {
+        "name": "assets/upload/1782140219747.png",
+        "bytes": 7868
+      },
+      {
+        "name": "assets/upload/1782140219748.png",
+        "bytes": 10549
+      },
+      {
+        "name": "assets/upload/1782140219749.png",
+        "bytes": 8769
+      },
+      {
+        "name": "assets/upload/1782140219750.png",
+        "bytes": 7732
+      },
+      {
+        "name": "assets/upload/1782140219751.png",
+        "bytes": 5134
+      },
+      {
+        "name": "assets/upload/1782140219752.png",
+        "bytes": 14344
+      },
+      {
+        "name": "assets/upload/1782140219753.png",
+        "bytes": 7019
+      },
+      {
+        "name": "assets/upload/1782140219754.png",
+        "bytes": 7846
+      },
+      {
+        "name": "assets/upload/1782140219755.png",
+        "bytes": 7755
+      },
+      {
+        "name": "assets/upload/1782140219756.png",
+        "bytes": 16367
+      },
+      {
+        "name": "assets/upload/1782140219757.png",
+        "bytes": 13747
+      },
+      {
+        "name": "assets/upload/1782140219758.png",
+        "bytes": 9417
+      },
+      {
+        "name": "assets/upload/1782140219759.png",
+        "bytes": 6007
+      },
+      {
+        "name": "assets/upload/1782140219760.png",
+        "bytes": 6188
+      },
+      {
+        "name": "assets/upload/1782140219761.png",
+        "bytes": 7294
+      },
+      {
+        "name": "assets/upload/1782140219762.png",
+        "bytes": 7486
+      },
+      {
+        "name": "assets/upload/1782140219763.png",
+        "bytes": 6460
+      },
+      {
+        "name": "assets/upload/1782140219764.png",
+        "bytes": 6641
+      },
+      {
+        "name": "assets/upload/1782140219765.png",
+        "bytes": 17569
+      },
+      {
+        "name": "assets/upload/1782140219766.png",
+        "bytes": 8221
+      },
+      {
+        "name": "assets/upload/1782140219767.jpg",
+        "bytes": 6552
+      },
+      {
+        "name": "assets/upload/1782140219768.png",
+        "bytes": 5573
+      },
+      {
+        "name": "assets/upload/1782140219769.jpg",
+        "bytes": 4471
+      },
+      {
+        "name": "assets/upload/1782140219770.png",
+        "bytes": 49095
+      },
+      {
+        "name": "assets/upload/1782140219771.png",
+        "bytes": 14495
+      },
+      {
+        "name": "assets/upload/1782140219772.jpg",
+        "bytes": 7345
+      },
+      {
+        "name": "assets/upload/1782140219773.png",
+        "bytes": 5888
+      },
+      {
+        "name": "assets/upload/1782140219774.jpg",
+        "bytes": 7088
+      },
+      {
+        "name": "assets/upload/1782140219775.png",
+        "bytes": 13307
+      },
+      {
+        "name": "assets/upload/1782140219776.png",
+        "bytes": 5478
+      },
+      {
+        "name": "assets/upload/1782140229424.jpg",
+        "bytes": 3362
+      },
+      {
+        "name": "assets/upload/1782363747916.jpg",
+        "bytes": 16171
+      },
+      {
+        "name": "assets/upload/1782442068259.jpg",
+        "bytes": 18968
+      },
+      {
+        "name": "assets/upload/1782495303415.jpg",
+        "bytes": 4155
+      },
+      {
+        "name": "assets/upload/1782495303455.png",
+        "bytes": 19785
+      },
+      {
+        "name": "assets/upload/1782619046256.png",
+        "bytes": 21722
+      },
+      {
+        "name": "assets/upload/1782619066740.png",
+        "bytes": 22672
+      },
+      {
+        "name": "assets/upload/1784544020160.jpg",
+        "bytes": 14826
+      },
+      {
+        "name": "assets/upload/1784750424337.jpg",
+        "bytes": 6236
+      },
+      {
+        "name": "assets/upload/1784750516887.jpg",
+        "bytes": 7512
+      },
+      {
+        "name": "assets/upload/1784750863324.jpg",
+        "bytes": 6059
+      },
+      {
+        "name": "assets/upload/1788835758051.webp",
+        "bytes": 17014
+      },
+      {
+        "name": "assets/upload/1788836026707.webp",
+        "bytes": 24788
+      },
+      {
+        "name": "assets/upload/1788836190568.webp",
+        "bytes": 24402
+      },
+      {
+        "name": "assets/upload/1788836253272.webp",
+        "bytes": 17306
+      },
+      {
+        "name": "assets/upload/20260714151124.jpg",
+        "bytes": 556317
+      }
+    ]
+  },
+  "manifest": {
+    "permissions": [],
+    "components": [],
+    "packageRefs": [],
+    "versionHints": []
+  },
+  "urls": {
+    "backend": [
+      "https://cdn.jsdelivr.net/gh/mytvsat/webservice@main/",
+      "https://cdn.jsdelivr.net/gh/mytvsat/webservice@main/v2/",
+      "https://cdn.jsdelivr.net/gh/mytvsat/webservice@main/v2/getaddress",
+      "https://helia.beauty/",
+      "https://helia.beauty/newwebservice/api/",
+      "https://mytvinfo",
+      "https://mytvsat.alphasoft.workers.dev/privacy_policy.htm",
+      "https://payfa.beauty/",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/MostViewKidsMovieBox.json",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/MostViewMovieBox.json",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/MostViewTurkeyMovieBox.json",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/NewKidsMovieBox.json",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/NewMovieBox.json",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/NewTurkeyMovieBox.json",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/getaddress",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/v2/",
+      "https://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/v2/getaddress",
+      "https://www.instagram.com/mytvsat1"
+    ],
+    "otherHostCounts": {
+      "googlemobileadssdk.page.link": 3,
+      "developer.android.com": 2,
+      "jsoup.org": 1,
+      "goo.gle": 1,
+      "developers.google.com": 2,
+      "firebase.google.com": 4,
+      "bit.ly": 1,
+      "fonts.gstatic.com": 1,
+      "goo.gl": 1,
+      "g.co": 1,
+      "issuetracker.google.com": 3,
+      "dashif.org": 4,
+      "geolocation-db.com": 1,
+      "ipwho.is": 1,
+      "ipwhois.app": 1,
+      "market.android.com": 2,
+      "ns.adobe.com": 1,
+      "play.google.com": 4,
+      "schemas.android.com": 2,
+      "undefined": 1,
+      "www.example.com": 1,
+      "www.google.com": 6,
+      "www.w3.org": 7,
+      "xml.org": 3,
+      "xmlpull.org": 2,
+      "admob-gmats.uc.r.appspot.com": 1,
+      "aomedia.org": 1,
+      "api.country.is": 1,
+      "api.ipmyp.ir": 1,
+      "app-measurement.com": 1,
+      "applift-a.apptornado.com": 1,
+      "applift-a.apptornado.com,https": 1,
+      "csi.gstatic.com": 1,
+      "developer.apple.com": 1,
+      "en.ipshu.com": 3,
+      "firebase-settings.crashlytics.com": 1,
+      "firebaseinstallations.googleapis.com": 1,
+      "football360.ir": 4,
+      "fundingchoicesmessages.google.com": 1,
+      "google.com": 1,
+      "googleads.g.doubleclick.net": 7,
+      "imasdk.googleapis.com": 1,
+      "ipnumberia.com": 1,
+      "mapi.antenapi.com": 2,
+      "mediation1.apptornado.com": 1,
+      "pagead2.googlesyndication.com": 2,
+      "sdk.appbrain.com,https": 1,
+      "show-ip.ir": 1,
+      "support.google.com": 1,
+      "t.me": 1,
+      "www.aparatsport.com": 3,
+      "www.googleadservices.com": 1,
+      "www.youtube.com": 1
+    },
+    "otherSamples": [
+      "https://googlemobileadssdk.page.link/admob-android-update-manifest",
+      "https://googlemobileadssdk.page.link/ad-manager-android-update-manifest",
+      "https://developer.android.com/guide/topics/media/issues/player-accessed-on-wrong-thread",
+      "https://jsoup.org/cookbook/extracting-data/working-with-urls",
+      "https://goo.gle/compose-feedback",
+      "https://developers.google.com/tink/faq/registration_errors",
+      "https://developers.google.com/admob/android/test-ads#enable_test_devices",
+      "https://firebase.google.com/support/guides/disable-analytics",
+      "https://developer.android.com/guide/topics/media/issues/cleartext-not-permitted",
+      "https://bit.ly/2LjzK2N",
+      "https://firebase.google.com/docs/analytics",
+      "https://fonts.gstatic.com/s/a/directory.xml",
+      "https://googlemobileadssdk.page.link/admob-interstitial-policies",
+      "https://goo.gl/NAOOOI",
+      "http://g.co/dev/packagevisibility",
+      "https://firebase.google.com/support/privacy/init-options",
+      "https://firebase.google.com/docs/crashlytics/get-started?platform=android#add-plugin",
+      "https://issuetracker.google.com/issues/new?component=907884&template=1466542",
+      "https://issuetracker.google.com/issues/297974033",
+      "https://issuetracker.google.com/issues/300280216",
+      "http://dashif.org/guidelines/last-segment-number",
+      "http://dashif.org/guidelines/thumbnail_tile",
+      "http://dashif.org/guidelines/trickmode",
+      "http://dashif.org/thumbnail_tile",
+      "http://geolocation-db.com/json/",
+      "http://ipwho.is/",
+      "http://ipwhois.app/json/",
+      "http://market.android.com",
+      "http://ns.adobe.com/xap/1.0/",
+      "http://play.google.com",
+      "http://schemas.android.com/apk/lib/com.appbrain",
+      "http://schemas.android.com/apk/res/android",
+      "http://undefined/",
+      "http://www.example.com",
+      "http://www.google.com",
+      "http://www.w3.org/1998/Math/MathML",
+      "http://www.w3.org/1999/xhtml",
+      "http://www.w3.org/1999/xlink",
+      "http://www.w3.org/2000/svg",
+      "http://www.w3.org/TR/SVG11/feature#",
+      "http://www.w3.org/XML/1998/namespace",
+      "http://www.w3.org/ns/ttml#parameter",
+      "http://xml.org/sax/features/external-general-entities",
+      "http://xml.org/sax/features/external-parameter-entities",
+      "http://xml.org/sax/properties/lexical-handler",
+      "http://xmlpull.org/v1/doc/features.html#process-docdecl",
+      "http://xmlpull.org/v1/doc/features.html#process-namespaces",
+      "https://admob-gmats.uc.r.appspot.com/",
+      "https://aomedia.org/emsg/ID3",
+      "https://api.country.is/",
+      "https://api.ipmyp.ir/json",
+      "https://app-measurement.com/a",
+      "https://applift-a.apptornado.com",
+      "https://applift-a.apptornado.com,https://applift-b.apptornado.com",
+      "https://csi.gstatic.com/csi",
+      "https://developer.apple.com/streaming/emsg-id3",
+      "https://en.ipshu.com/",
+      "https://en.ipshu.com/my_info",
+      "https://en.ipshu.com/myip_info?random=",
+      "https://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/",
+      "https://firebaseinstallations.googleapis.com/v1/",
+      "https://football360.ir/api/base/v2/competition-trends/ee2eec22-9ac7-4773-9c13-6414117d44aa/fixtures/",
+      "https://football360.ir/api/cms/v2/sections/live_streamgame/section_by_posts/?offset=0&limit=50",
+      "https://football360.ir/live/",
+      "https://football360.ir/live/section",
+      "https://fundingchoicesmessages.google.com/a/consent",
+      "https://google.com/search",
+      "https://googleads.g.doubleclick.net",
+      "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/native_ads.html",
+      "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_banner.js",
+      "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_expanded_banner.js",
+      "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_interstitial.js",
+      "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/sdk-core-v40-impl.html",
+      "https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html",
+      "https://imasdk.googleapis.com/admob/sdkloader/native_video.html",
+      "https://ipnumberia.com/",
+      "https://mapi.antenapi.com/v4.3/programs/",
+      "https://mapi.antenapi.com/v4.3/programsWithSlider?offset=0&count=20&type=1&getFeatured=1&clientPlatform=1",
+      "https://market.android.com",
+      "https://mediation1.apptornado.com",
+      "https://pagead2.googlesyndication.com/pagead/gen_204?id=gmob-apps",
+      "https://pagead2.googlesyndication.com/pagead/ping?e=2&f=1",
+      "https://play.google.com",
+      "https://play.google.com/d",
+      "https://play.google.com/store/apps/details?id=",
+      "https://sdk.appbrain.com,https://sdk-b.apptornado.com",
+      "https://show-ip.ir/json",
+      "https://support.google.com/dfp_premium/answer/7160685#push",
+      "https://t.me/digisoft_tv",
+      "https://www.aparatsport.com/adele/getHls2?stream_id=",
+      "https://www.aparatsport.com/api/fa/v1/sport/sport/get_home_data",
+      "https://www.aparatsport.com/api/fa/v1/sport/sport/get_match_with_uuid?uuid=",
+      "https://www.google.com",
+      "https://www.google.com/dfp/debugSignals",
+      "https://www.google.com/dfp/inAppPreview",
+      "https://www.google.com/dfp/linkDevice",
+      "https://www.google.com/dfp/sendDebugData",
+      "https://www.googleadservices.com/pagead/conversion/app/deeplink?id_type=adid&sdk_version=",
+      "https://www.youtube.com/channel/UCwhX08QiWUqBSUMZBRRhPjw"
+    ]
+  },
+  "crypto": {
+    "cryptoHitCount": 9,
+    "apiPaths": [
+      "/api/mediation?action=",
+      "/api/pb?action=",
+      "/posts",
+      "5Landroid/support/v4/app/RemoteActionCompatParcelizer;",
+      ";Landroid/support/v4/graphics/drawable/IconCompatParcelizer;",
+      ":Landroid/support/v4/media/AudioAttributesCompatParcelizer;",
+      "=Landroid/support/v4/media/AudioAttributesImplApi21Parcelizer;",
+      "=Landroid/support/v4/media/AudioAttributesImplApi26Parcelizer;",
+      "<Landroid/support/v4/media/AudioAttributesImplBaseParcelizer;",
+      "HLandroid/support/v4/media/MediaBrowserCompat$CustomActionResultReceiver;",
+      ":Landroid/support/v4/media/MediaBrowserCompat$ItemReceiver;",
+      "7Landroid/support/v4/media/MediaBrowserCompat$MediaItem;",
+      "BLandroid/support/v4/media/MediaBrowserCompat$SearchResultReceiver;",
+      "1Landroid/support/v4/media/MediaDescriptionCompat;",
+      ".Landroid/support/v4/media/MediaMetadataCompat;",
+      "'Landroid/support/v4/media/RatingCompat;",
+      "Landroid/support/v4/media/a;",
+      "Landroid/support/v4/media/b;",
+      "rLandroid/support/v4/media/session/MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver;",
+      "?Landroid/support/v4/media/session/MediaSessionCompat$QueueItem;",
+      "KLandroid/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper;",
+      ";Landroid/support/v4/media/session/MediaSessionCompat$Token;",
+      "7Landroid/support/v4/media/session/ParcelableVolumeInfo;",
+      "CLandroid/support/v4/media/session/PlaybackStateCompat$CustomAction;",
+      "6Landroid/support/v4/media/session/PlaybackStateCompat;",
+      "$Landroid/support/v4/media/session/a;",
+      "$Landroid/support/v4/media/session/b;",
+      "<Lcom/google/android/gms/auth/api/signin/GoogleSignInAccount;",
+      "0Lcom/google/android/gms/common/api/ApiException;",
+      "9Lcom/google/android/gms/common/api/AvailabilityException;",
+      "5Lcom/google/android/gms/common/api/GoogleApiActivity;",
+      ":Lcom/google/android/gms/common/api/ResolvableApiException;",
+      ")Lcom/google/android/gms/common/api/Scope;",
+      "*Lcom/google/android/gms/common/api/Status;",
+      "?Lcom/google/android/gms/common/api/UnsupportedApiCallException;",
+      ">Lcom/google/android/gms/common/api/internal/LifecycleCallback;",
+      "Lorg/xmlpull/v1/XmlPullParser;",
+      "'Lorg/xmlpull/v1/XmlPullParserException;",
+      "%Lorg/xmlpull/v1/XmlPullParserFactory;",
+      "Lorg/xmlpull/v1/XmlSerializer;",
+      "8[Landroid/support/v4/media/MediaBrowserCompat$MediaItem;",
+      "2[Landroid/support/v4/media/MediaDescriptionCompat;",
+      "/[Landroid/support/v4/media/MediaMetadataCompat;",
+      "([Landroid/support/v4/media/RatingCompat;",
+      "@[Landroid/support/v4/media/session/MediaSessionCompat$QueueItem;",
+      "L[Landroid/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper;",
+      "<[Landroid/support/v4/media/session/MediaSessionCompat$Token;",
+      "8[Landroid/support/v4/media/session/ParcelableVolumeInfo;",
+      "D[Landroid/support/v4/media/session/PlaybackStateCompat$CustomAction;",
+      "7[Landroid/support/v4/media/session/PlaybackStateCompat;",
+      "=[Lcom/google/android/gms/auth/api/signin/GoogleSignInAccount;",
+      "*[Lcom/google/android/gms/common/api/Scope;",
+      "+[Lcom/google/android/gms/common/api/Status;",
+      "getAddress",
+      "getPosts",
+      "getPostsGlobal",
+      "getaddress",
+      "getaddress '",
+      "getaddress answered by '",
+      "$getaddress failed ",
+      "8getaddress unavailable (v2 race and v1) ",
+      "7http://xmlpull.org/v1/doc/features.html#process-docdecl",
+      ":http://xmlpull.org/v1/doc/features.html#process-namespaces",
+      "7https://cdn.jsdelivr.net/gh/mytvsat/webservice@main/v2/",
+      "Ahttps://cdn.jsdelivr.net/gh/mytvsat/webservice@main/v2/getaddress",
+      "Ghttps://firebase-settings.crashlytics.com/spi/v2/platforms/android/gmp/",
+      "0https://firebaseinstallations.googleapis.com/v1/",
+      "dhttps://football360.ir/api/base/v2/competition-trends/ee2eec22-9ac7-4773-9c13-6414117d44aa/fixtures/",
+      "^https://football360.ir/api/cms/v2/sections/live_streamgame/section_by_posts/?offset=0&limit=50",
+      "fhttps://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_banner.js",
+      "ohttps://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_expanded_banner.js",
+      "lhttps://googleads.g.doubleclick.net/mads/static/mad/sdk/native/production/mraid/v3/mraid_app_interstitial.js",
+      "'https://helia.beauty/newwebservice/api/",
+      "Ohttps://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/getaddress",
+      "Hhttps://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/v2/",
+      "Rhttps://raw.githubusercontent.com/mytvsat/webservice/refs/heads/main/v2/getaddress",
+      "?https://www.aparatsport.com/api/fa/v1/sport/sport/get_home_data",
+      "Khttps://www.aparatsport.com/api/fa/v1/sport/sport/get_match_with_uuid?uuid=",
+      "newwebservice/api/v2/",
+      "newwebservice/api/v2/login",
+      "newwebservice/api/v2/logout",
+      "newwebservice/api/v2/register",
+      "v2/getaddress"
+    ],
+    "classes": [
+      "Landroid/media/MediaCrypto;",
+      "Lir/alphasoft/mytv/data/AK;",
+      "Lir/alphasoft/mytv/data/SK;",
+      "Lir/alphasoft/mytv/data/a;",
+      "Lir/alphasoft/mytv/data/b;",
+      "Lir/alphasoft/mytv/data/c;",
+      "Ljavax/crypto/Cipher;",
+      "Ljavax/crypto/KeyAgreement;",
+      "Ljavax/crypto/Mac;",
+      "Lorg/conscrypt/Conscrypt;"
+    ],
+    "keyCandidates": [
+      {
+        "value": "b64:AA74eMHsp6+YeXgwW1ug4iNz8R55KIvaQAvJIVOChCk=",
+        "distance": 121
+      },
+      {
+        "value": "b64:AW0WUdAlySbPNJG5w1IgQqYKXV7WN2hB/EQpNB2ZwfA=",
+        "distance": 211
+      },
+      {
+        "value": "hex:9b6d4a2e5f813f70c9e7daafcb144c86d5f1e812b54a730cb836c4a3a16590f2",
+        "distance": 458
+      },
+      {
+        "value": "hex:808182838485868788898a8b8c8d8e8f909192939495969798999a9b9c9d9e9f",
+        "distance": 468
+      },
+      {
+        "value": "b64:7XeVq1bS2Nfqusn9ZkJuz3JHMvM2X4C8Onql6XjPnDI=",
+        "distance": 472
+      },
+      {
+        "value": "hex:74d0b796667be255a98238dac62dd1a8ffc09c77d4d40761604d5f6b60c94ee1",
+        "distance": 475
+      },
+      {
+        "value": "b64:3gV4tnMlvvkjR90RI+zlkPr5OOXNb6rIM0OBAfjFnhQ=",
+        "distance": 498
+      },
+      {
+        "value": "b64:2zpK8lkEAfKzg/gDLwTAvNZ5YGoTWj1Wvd9h3pQ20cY=",
+        "distance": 526
+      },
+      {
+        "value": "b64:1y55K+UUiCchaHGitlZ/bNKURNzH22lnMjmt1W+XJdc=",
+        "distance": 540
+      },
+      {
+        "value": "b64:1K94VZ1tx0GyFGtgwnS0N2oMN6rD4ZLd6x9MV4dxATs=",
+        "distance": 544
+      },
+      {
+        "value": "b64:0hPI01hyl9gRqyFiGkD5f6txe9kPcrO1Amh2RTTvv44=",
+        "distance": 689
+      },
+      {
+        "value": "hex:0000000000000000000000000000000000000000000000000000000000000000",
+        "distance": 701
+      },
+      {
+        "value": "b64:0+4i1BfON/tZfr/zJSlwHIdubE7ug8Met8dVp0E6y4I=",
+        "distance": 705
+      },
+      {
+        "value": "b64:B8F9vDJnxMpT6A0e2svZxVoQiQU+cW9JSDnuxem+FSo=",
+        "distance": 1174
+      },
+      {
+        "value": "b64:Bw1THEoW7bQ3OtU3uQYqnJGIWksyztmdRETM6M6rWV4=",
+        "distance": 1571
+      },
+      {
+        "value": "b64:+RUwiCqrIcStaeiSXRFEyI1zJGWpibshqhmF48hI+GU=",
+        "distance": 2128
+      },
+      {
+        "value": "b64:MCymTm++OZPusG19DHbi/CZ9AvqE5ZBPeRnjpDHc8+4=",
+        "distance": 2528
+      },
+      {
+        "value": "b64:G3wZ8gDu6u4efTKrvmsEHv1YK8hQgMyBIdhh8ClIQBY=",
+        "distance": 4693
+      },
+      {
+        "value": "b64:SO84xWj1xZpVST0NHeOw+QMypPAPo6e/MVLMJbQH2M4=",
+        "distance": 4956
+      },
+      {
+        "value": "b64:Su/GzywZakXq4glBT/l81JrPkq4+JC0EaqCjCuVscxM=",
+        "distance": 5709
+      },
+      {
+        "value": "b64:KJxrJ6uU/9eq7G+RMyslIXmSG1J2c6lM89WgXCr+3Fk=",
+        "distance": 6099
+      },
+      {
+        "value": "b64:KwLCo2LsichRi68Y4oRLpNy6fN1z6Wq88wujVx/pAjo=",
+        "distance": 6194
+      },
+      {
+        "value": "b64:L3fqGrpQIz2+lJDWzlSbCxhzTWa8jmNDfQhrqUdlO7E=",
+        "distance": 6209
+      },
+      {
+        "value": "b64:Vl0tGZUP9VgyaB044qzcR6APHL2v0rcSEKKrSSyljVU=",
+        "distance": 8379
+      },
+      {
+        "value": "b64:W+zVAKx2eduhDPC6RoJgOXSegMcVlCiHMJF4lAq9BYw=",
+        "distance": 8406
+      },
+      {
+        "value": "b64:WP0A/iiJ0kwZaUHwj1D1bpbR/N680LqPRhfJ3Mm7j/s=",
+        "distance": 8437
+      },
+      {
+        "value": "b64:YV8d9qma0OL6XD+53oet9uRH00OzaYnpRo+iusl6DCM=",
+        "distance": 8726
+      },
+      {
+        "value": "hex:b0b4417601b59cbc9d8ac8f935cadaec4f5fbb2f23785609ae466748d9b5a536",
+        "distance": 11227
+      },
+      {
+        "value": "b64:bIJcfftBOk0kpDuDA++0Eu/pVws1RwKw1eDUIOrZKTA=",
+        "distance": 11229
+      },
+      {
+        "value": "b64:cPmD560wQtvtgfdpMZNJUfXZwJNhRKcjeHNf5LBrqDo=",
+        "distance": 11570
+      },
+      {
+        "value": "hex:f8183668ba5fc5bb06b5981e6d8b795d30b8978d43ca0ec572e37e09939a9773",
+        "distance": 13670
+      },
+      {
+        "value": "b64:lJ7kzsnnwzWch0Zt9duIk9QjvlIbpzkFDyarwE3sjFc=",
+        "distance": 18240
+      },
+      {
+        "value": "b64:n5HdSerkTAgTJwRh00NQA14abEqPXtGNhLU/oVUfpWQ=",
+        "distance": 19258
+      },
+      {
+        "value": "b64:v02B7neKpYyNwQtluXNrII6UZlY2WS0o0AnaqwUmhpo=",
+        "distance": 24365
+      },
+      {
+        "value": "b64:vovSRMWoC6DyReNhMsLU/AHhR3bWlWI4SOQQixDW2Zg=",
+        "distance": 24560
+      },
+      {
+        "value": "b64:w5p59RLEy51WEx7/xjLAr1+9bhgJEvrJ/0voomQz2z8=",
+        "distance": 24565
+      },
+      {
+        "value": "b64:wcFaDbS//5pJ1R+WEpFF/o7BDXsIcxPrCZPKL326+18=",
+        "distance": 24581
+      },
+      {
+        "value": "b64:zyTzUjCmOTi6owBt6QTGC9Xa/1geFdM1/vAgrH362Ug=",
+        "distance": 24798
+      }
+    ],
+    "ivCandidates": [
+      {
+        "value": "hex:6f0a7d56c2cd7a0861b17eb27bfb562b",
+        "distance": 477
+      },
+      {
+        "value": "hex:49f946663a8deb7054212b8adda248c6",
+        "distance": 489
+      },
+      {
+        "value": "hex:36864200e0eaf5284d884a0e77d31646",
+        "distance": 499
+      },
+      {
+        "value": "hex:b3eeabb8ee11c2be770b684d95219ecb",
+        "distance": 1173
+      },
+      {
+        "value": "hex:c103703e120ae8cc73c9248622f3cd1e",
+        "distance": 5247
+      },
+      {
+        "value": "hex:a0784d7a4716f3feb4f64e7f4b39bf04",
+        "distance": 9781
+      },
+      {
+        "value": "hex:d7463c1f5e9b6a25b178cedf2cb5ee1a",
+        "distance": 12834
+      }
+    ],
+    "contexts": [
+      [
+        "2AES GCM SIV cipher is not available or is invalid.",
+        "AES key size is not set",
+        "AES key size mismatch",
+        "#AES key size must be 16 or 32 bytes",
+        "AES-128",
+        "AES-CMAC Parameters (variant: ",
+        "AES/CBC/NoPadding",
+        "AES/CBC/PKCS5Padding",
+        "AES/CBC/PKCS7Padding",
+        "AES/CTR/NOPADDING",
+        "AES/CTR/NoPadding",
+        "AES/ECB/NOPADDING",
+        "AES/ECB/NoPadding"
+      ],
+      [
+        "AES key size is not set",
+        "AES key size mismatch",
+        "#AES key size must be 16 or 32 bytes",
+        "AES-128",
+        "AES-CMAC Parameters (variant: ",
+        "AES/CBC/NoPadding",
+        "AES/CBC/PKCS5Padding",
+        "AES/CBC/PKCS7Padding",
+        "AES/CTR/NOPADDING",
+        "AES/CTR/NoPadding",
+        "AES/ECB/NOPADDING",
+        "AES/ECB/NoPadding",
+        "AES/GCM-SIV/NoPadding"
+      ],
+      [
+        "AES key size mismatch",
+        "#AES key size must be 16 or 32 bytes",
+        "AES-128",
+        "AES-CMAC Parameters (variant: ",
+        "AES/CBC/NoPadding",
+        "AES/CBC/PKCS5Padding",
+        "AES/CBC/PKCS7Padding",
+        "AES/CTR/NOPADDING",
+        "AES/CTR/NoPadding",
+        "AES/ECB/NOPADDING",
+        "AES/ECB/NoPadding",
+        "AES/GCM-SIV/NoPadding",
+        "AES/GCM/NoPadding"
+      ],
+      [
+        "AES-CMAC Parameters (variant: ",
+        "AES/CBC/NoPadding",
+        "AES/CBC/PKCS5Padding",
+        "AES/CBC/PKCS7Padding",
+        "AES/CTR/NOPADDING",
+        "AES/CTR/NoPadding",
+        "AES/ECB/NOPADDING",
+        "AES/ECB/NoPadding",
+        "AES/GCM-SIV/NoPadding",
+        "AES/GCM/NoPadding",
+        "AES128_CTR_HMAC_SHA256",
+        "AES128_CTR_HMAC_SHA256_RAW",
+        "AES128_EAX"
+      ],
+      [
+        "AES/CBC/NoPadding",
+        "AES/CBC/PKCS5Padding",
+        "AES/CBC/PKCS7Padding",
+        "AES/CTR/NOPADDING",
+        "AES/CTR/NoPadding",
+        "AES/ECB/NOPADDING",
+        "AES/ECB/NoPadding",
+        "AES/GCM-SIV/NoPadding",
+        "AES/GCM/NoPadding",
+        "AES128_CTR_HMAC_SHA256",
+        "AES128_CTR_HMAC_SHA256_RAW",
+        "AES128_EAX",
+        "AES128_EAX_RAW"
+      ],
+      [
+        "+Lir/alphasoft/mytv/data/ApiClient$client$1;",
+        "\"Lir/alphasoft/mytv/data/ApiClient;",
+        "#Lir/alphasoft/mytv/data/ApiService;",
+        " Lir/alphasoft/mytv/data/Channel;",
+        "&Lir/alphasoft/mytv/data/ChannelSource;",
+        ")Lir/alphasoft/mytv/data/ChannelsResponse;",
+        "&Lir/alphasoft/mytv/data/CryptoManager;",
+        "8Lir/alphasoft/mytv/data/EmergencyMirror$VerifiedPackage;",
+        "4Lir/alphasoft/mytv/data/EmergencyMirror$sha256Hex$1;",
+        "(Lir/alphasoft/mytv/data/EmergencyMirror;",
+        "6Lir/alphasoft/mytv/data/FallbackInterceptor$Companion;",
+        "@Lir/alphasoft/mytv/data/FallbackInterceptor$RaceOutcome$Failure;",
+        "@Lir/alphasoft/mytv/data/FallbackInterceptor$RaceOutcome$Success;"
+      ],
+      [
+        "Ljava/security/Principal;",
+        " Ljava/security/PrivilegedAction;",
+        ")Ljava/security/PrivilegedActionException;",
+        ")Ljava/security/PrivilegedExceptionAction;",
+        "Ljava/security/Provider;",
+        "Ljava/security/PublicKey;",
+        "Ljava/security/SecureRandom;",
+        "Ljava/security/Security;",
+        "Ljava/security/Signature;",
+        "\"Ljava/security/SignatureException;",
+        "-Ljava/security/cert/CertPathBuilderException;",
+        "/Ljava/security/cert/CertPathValidatorException;",
+        " Ljava/security/cert/Certificate;"
+      ],
+      [
+        " Ljavax/crypto/CipherInputStream;",
+        "(Ljavax/crypto/IllegalBlockSizeException;",
+        "Ljavax/crypto/KeyAgreement;",
+        "Ljavax/crypto/Mac;",
+        "%Ljavax/crypto/NoSuchPaddingException;",
+        "$Ljavax/crypto/spec/GCMParameterSpec;",
+        "#Ljavax/crypto/spec/IvParameterSpec;",
+        "!Ljavax/crypto/spec/SecretKeySpec;",
+        "&Ljavax/microedition/khronos/egl/EGL10;",
+        "$Ljavax/microedition/khronos/egl/EGL;",
+        "*Ljavax/microedition/khronos/egl/EGLConfig;",
+        "+Ljavax/microedition/khronos/egl/EGLContext;",
+        "+Ljavax/microedition/khronos/egl/EGLDisplay;"
+      ],
+      [
+        "(Ljavax/crypto/IllegalBlockSizeException;",
+        "Ljavax/crypto/KeyAgreement;",
+        "Ljavax/crypto/Mac;",
+        "%Ljavax/crypto/NoSuchPaddingException;",
+        "$Ljavax/crypto/spec/GCMParameterSpec;",
+        "#Ljavax/crypto/spec/IvParameterSpec;",
+        "!Ljavax/crypto/spec/SecretKeySpec;",
+        "&Ljavax/microedition/khronos/egl/EGL10;",
+        "$Ljavax/microedition/khronos/egl/EGL;",
+        "*Ljavax/microedition/khronos/egl/EGLConfig;",
+        "+Ljavax/microedition/khronos/egl/EGLContext;",
+        "+Ljavax/microedition/khronos/egl/EGLDisplay;",
+        "+Ljavax/microedition/khronos/egl/EGLSurface;"
+      ]
+    ]
+  },
+  "decryption": {
+    "keyHex": "9b6d4a2e5f813f70c9e7daafcb144c86d5f1e812b54a730cb836c4a3a16590f2",
+    "ivHex": "d7463c1f5e9b6a25b178cedf2cb5ee1a",
+    "files": {
+      "getaddress": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object",
+        "keys": [
+          "status",
+          "addresss"
+        ]
+      },
+      "v2/getaddress": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object",
+        "keys": [
+          "status",
+          "addresss"
+        ]
+      },
+      "fa/getaddress": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object",
+        "keys": [
+          "status",
+          "addresss"
+        ]
+      },
+      "catR.json": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object",
+        "keys": [
+          "status",
+          "count",
+          "categories"
+        ]
+      },
+      "catO.json": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object",
+        "keys": [
+          "status",
+          "count",
+          "categories"
+        ]
+      },
+      "v2/post": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 7,
+        "sampleKeys": [
+          "channel_id",
+          "category_id",
+          "channel_name",
+          "channel_name_en",
+          "channel_image",
+          "channel_url",
+          "channel_referer",
+          "channel_agent",
+          "channel_origin",
+          "need_vpn",
+          "for_iran",
+          "popular",
+          "sat_ferq",
+          "Desc_info",
+          "direction",
+          "isvip",
+          "category_name",
+          "category_name_en",
+          "sourses"
+        ]
+      },
+      "fa/settings": {
+        "ok": false
+      },
+      "cat.json": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object",
+        "keys": [
+          "status",
+          "count",
+          "categories"
+        ]
+      },
+      "v2/settings": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 1,
+        "sampleKeys": [
+          "Current_Version",
+          "GooglePlay_Update_Link",
+          "package_name",
+          "ForceUpdate",
+          "aparatsport",
+          "movieList1",
+          "movieList2",
+          "kidsList1",
+          "kidsList2",
+          "turkList1",
+          "turkList2",
+          "slider_status",
+          "worldcup2026"
+        ]
+      },
+      "post": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 7,
+        "sampleKeys": [
+          "channel_id",
+          "category_id",
+          "channel_name",
+          "channel_name_en",
+          "channel_image",
+          "channel_url",
+          "channel_referer",
+          "channel_agent",
+          "channel_origin",
+          "need_vpn",
+          "for_iran",
+          "popular",
+          "sat_ferq",
+          "Desc_info",
+          "direction",
+          "isvip",
+          "category_name",
+          "category_name_en",
+          "sourses"
+        ]
+      },
+      "fa/posts": {
+        "ok": false
+      },
+      "get_recent_posts.json": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 1,
+        "sampleKeys": [
+          "nid",
+          "app_title",
+          "app_date",
+          "app_image",
+          "app_description",
+          "fcm_Status",
+          "Pushe_Status",
+          "Cheshmak_Status",
+          "GooglePlay_Update_Ver",
+          "Bazaar_Update_Ver",
+          "Myket_Update_Ver",
+          "IranApps_Update_Ver",
+          "GooglePlay_Update_Link",
+          "Bazaar_Update_Link",
+          "Myket_Update_Link",
+          "IranApps_Update_Link",
+          "AdMob_Status",
+          "AdMob_App_ID",
+          "AdMob_Banner_ID",
+          "AdMob_Interstitial_ID",
+          "AdMob_Native_ID",
+          "AdMob_Interstitial_Interval",
+          "Tapsell_Status",
+          "package_name",
+          "MyBanner_Status"
+        ]
+      },
+      "settings": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 1,
+        "sampleKeys": [
+          "Current_Version",
+          "GooglePlay_Update_Link",
+          "package_name",
+          "ForceUpdate",
+          "aparatsport",
+          "movieList1",
+          "movieList2",
+          "kidsList1",
+          "kidsList2",
+          "turkList1",
+          "turkList2",
+          "slider_status",
+          "worldcup2026"
+        ]
+      },
+      "v2/posts": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 342,
+        "sampleKeys": [
+          "channel_id",
+          "category_id",
+          "channel_name",
+          "channel_name_en",
+          "channel_image",
+          "channel_url",
+          "channel_referer",
+          "channel_agent",
+          "channel_origin",
+          "need_vpn",
+          "for_iran",
+          "popular",
+          "isvip",
+          "category_name",
+          "category_name_en",
+          "channel_headers",
+          "sourses"
+        ]
+      },
+      "get_more_posts.json": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 294,
+        "sampleKeys": [
+          "ID",
+          "channel_id",
+          "title",
+          "channel_url",
+          "sort",
+          "referer",
+          "lang",
+          "origin"
+        ]
+      },
+      "popular.json": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 361,
+        "sampleKeys": [
+          "channel_id",
+          "category_id",
+          "channel_name",
+          "channel_image",
+          "channel_url",
+          "channel_description",
+          "is_gl",
+          "gl_name",
+          "is_vpn",
+          "is_epg",
+          "epg_url",
+          "epg_date",
+          "is_IRIB",
+          "wplayer",
+          "agent",
+          "origin",
+          "category_name"
+        ]
+      },
+      "posts": {
+        "ok": true,
+        "sameCombo": true,
+        "shape": "object.posts",
+        "count": 342,
+        "sampleKeys": [
+          "channel_id",
+          "category_id",
+          "channel_name",
+          "channel_name_en",
+          "channel_image",
+          "channel_url",
+          "channel_referer",
+          "channel_agent",
+          "channel_origin",
+          "need_vpn",
+          "for_iran",
+          "popular",
+          "isvip",
+          "category_name",
+          "category_name_en",
+          "channel_headers",
+          "sourses"
+        ]
+      }
+    },
+    "movieBox": {
+      "NewMovieBox.json": {
+        "ok": false,
+        "mode": null,
+        "records": 29,
+        "fields": 116,
+        "opened": 0
+      },
+      "MostViewMovieBox.json": {
+        "ok": false,
+        "mode": null,
+        "records": 30,
+        "fields": 120,
+        "opened": 0
+      },
+      "NewKidsMovieBox.json": {
+        "ok": false,
+        "mode": null,
+        "records": 29,
+        "fields": 116,
+        "opened": 0
+      },
+      "MostViewKidsMovieBox.json": {
+        "ok": false,
+        "mode": null,
+        "records": 29,
+        "fields": 116,
+        "opened": 0
+      },
+      "NewTurkeyMovieBox.json": {
+        "ok": false,
+        "mode": null,
+        "records": 29,
+        "fields": 116,
+        "opened": 0
+      },
+      "MostViewTurkeyMovieBox.json": {
+        "ok": false,
+        "mode": null,
+        "records": 29,
+        "fields": 116,
+        "opened": 0
+      }
+    },
+    "pools": {
+      "keys": 30,
+      "ivs": 7
+    },
+    "foundOn": "getaddress"
+  },
+  "fetch": {
+    "targets": {
+      "fa/posts": {
+        "bytes": 7292
+      },
+      "NewMovieBox.json": {
+        "bytes": 45320
+      },
+      "fa/settings": {
+        "bytes": 1903
+      },
+      "cat.json": {
+        "bytes": 1920
+      },
+      "getaddress": {
+        "bytes": 152
+      },
+      "NewTurkeyMovieBox.json": {
+        "bytes": 39982
+      },
+      "v2/settings": {
+        "bytes": 4824
+      },
+      "fa/getaddress": {
+        "bytes": 153
+      },
+      "get_recent_posts.json": {
+        "bytes": 7468
+      },
+      "catR.json": {
+        "bytes": 556
+      },
+      "v2/post": {
+        "bytes": 1472
+      },
+      "v2/posts": {
+        "bytes": 31552
+      },
+      "post": {
+        "bytes": 5464
+      },
+      "v2/getaddress": {
+        "bytes": 152
+      },
+      "MostViewMovieBox.json": {
+        "bytes": 63501
+      },
+      "get_more_posts.json": {
+        "bytes": 88216
+      },
+      "NewKidsMovieBox.json": {
+        "bytes": 44858
+      },
+      "settings": {
+        "bytes": 18176
+      },
+      "MostViewTurkeyMovieBox.json": {
+        "bytes": 50954
+      },
+      "popular.json": {
+        "bytes": 214892
+      },
+      "posts": {
+        "bytes": 270272
+      },
+      "catO.json": {
+        "bytes": 664
+      },
+      "MostViewKidsMovieBox.json": {
+        "bytes": 62324
+      }
+    },
+    "errors": []
+  },
+  "native": [
+    {
+      "lib": "lib/arm64-v8a/libandroidx.graphics.path.so",
+      "urls": [
+        "https://android.googlesource.com/toolchain/llvm-project"
+      ]
+    },
+    {
+      "lib": "lib/arm64-v8a/libavcodec.so",
+      "urls": [
+        "http://www.w3.org/ns/ttml",
+        "http://www.w3.org/ns/ttml#metadata",
+        "http://www.w3.org/ns/ttml#styling",
+        "http://www.w3.org/ns/ttml#parameter",
+        "http://ultravideo.cs.tut.fi/"
+      ]
+    },
+    {
+      "lib": "lib/arm64-v8a/libavfilter.so",
+      "urls": [
+        "http://www.w3.org/2000/xmlns/",
+        "http://www.w3.org/XML/1998/namespace",
+        "http://www.brynosaurus.com/cachedir/"
+      ]
+    },
+    {
+      "lib": "lib/arm64-v8a/libavformat.so",
+      "urls": [
+        "http://www.w3.org/ns/ttml",
+        "http://www.w3.org/ns/ttml#metadata",
+        "http://www.w3.org/ns/ttml#styling",
+        "http://www.w3.org/ns/ttml#parameter",
+        "http://dashif.org/guidelines/trickmode",
+        "http://www.w3.org/2001/XMLSchema-instance",
+        "http://ns.adobe.com/f4m/1.0",
+        "http://www.w3.org/1999/xlink",
+        "http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd",
+        "http://%s:%d%s",
+        "http://www.smpte-ra.org/schemas/2067-3/2013#standard-markers",
+        "http://www.w3.org/2000/xmlns/",
+        "http://%s",
+        "http://%s%s",
+        "http://www.w3.org/2001/SMIL20/Language",
+        "http://www.w3.org/XML/1998/namespace",
+        "http://dashif.org/guidelines/last-segment-number"
+      ]
+    },
+    {
+      "lib": "lib/arm64-v8a/libavutil.so",
+      "urls": [
+        "https://streams.videolan.org/upload/"
+      ]
+    },
+    {
+      "lib": "lib/arm64-v8a/libc++_shared.so",
+      "urls": [
+        "https://android.googlesource.com/toolchain/llvm-project"
+      ]
+    },
+    {
+      "lib": "lib/arm64-v8a/libffmpegkit.so",
+      "urls": [
+        "https://streams.videolan.org/upload/",
+        "https://android.googlesource.com/toolchain/llvm-project",
+        "http://www.gnu.org/licenses/",
+        "http://www.w3.org/2001/XMLSchema-instance",
+        "http://www.ffmpeg.org/schema/ffprobe"
+      ]
+    },
+    {
+      "lib": "lib/arm64-v8a/libffmpegkit_abidetect.so",
+      "urls": [
+        "https://android.googlesource.com/toolchain/llvm-project"
+      ]
+    },
+    {
+      "lib": "lib/armeabi-v7a/libandroidx.graphics.path.so",
+      "urls": [
+        "https://android.googlesource.com/toolchain/llvm-project"
+      ]
+    }
+  ],
+  "assetsText": [
+    {
+      "name": "assets/licenses/vazirmatn_OFL.txt",
+      "bytes": 4391,
+      "head": "Copyright 2015 The Vazirmatn Project Authors (https://github.com/rastikerdar/vazirmatn)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded, \nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwrit"
+    }
+  ],
+  "extractedLogos": {
+    "enabled": true,
+    "count": 397,
+    "bytes": 3786457,
+    "files": [
+      "1182140219436.png",
+      "1722612066740.png",
+      "1781140219446.jpg",
+      "1781724403123.jpg",
+      "1781756797105.png",
+      "1781975470004.jpg",
+      "1782013217451.jpg",
+      "1782140219404.png",
+      "1782140219405.png",
+      "1782140219406.jpg",
+      "1782140219407.jpg",
+      "1782140219408.jpg",
+      "1782140219409.png",
+      "1782140219410.jpg",
+      "1782140219411.jpg",
+      "1782140219412.jpg",
+      "1782140219413.jpg",
+      "1782140219414.jpg",
+      "1782140219415.png",
+      "1782140219416.png",
+      "1782140219417.jpg",
+      "1782140219418.png",
+      "1782140219419.png",
+      "1782140219420.png",
+      "1782140219421.png",
+      "1782140219422.png",
+      "1782140219423.png",
+      "1782140219424.jpg",
+      "1782140219424.png",
+      "1782140219425.png",
+      "1782140219426.png",
+      "1782140219427.png",
+      "1782140219428.png",
+      "1782140219429.png",
+      "1782140219430.png",
+      "1782140219431.png",
+      "1782140219432.png",
+      "1782140219433.png",
+      "1782140219434.jpg",
+      "1782140219435.png",
+      "1782140219436.png",
+      "1782140219437.png",
+      "1782140219438.jpg",
+      "1782140219439.jpg",
+      "1782140219440.jpg",
+      "1782140219441.jpg",
+      "1782140219442.jpg",
+      "1782140219443.png",
+      "1782140219444.jpg",
+      "1782140219445.png",
+      "1782140219446.jpg",
+      "1782140219447.jpg",
+      "1782140219448.jpg",
+      "1782140219449.jpg",
+      "1782140219450.jpg",
+      "1782140219451.jpg",
+      "1782140219452.jpg",
+      "1782140219453.jpg",
+      "1782140219454.png",
+      "1782140219455.jpg",
+      "1782140219456.png",
+      "1782140219457.png",
+      "1782140219458.png",
+      "1782140219459.png",
+      "1782140219460.png",
+      "1782140219461.png",
+      "1782140219462.png",
+      "1782140219463.png",
+      "1782140219464.png",
+      "1782140219465.png",
+      "1782140219466.png",
+      "1782140219467.jpg",
+      "1782140219468.jpg",
+      "1782140219469.png",
+      "1782140219470.jpg",
+      "1782140219471.jpg",
+      "1782140219472.jpg",
+      "1782140219473.png",
+      "1782140219474.jpg",
+      "1782140219475.jpg",
+      "1782140219476.png",
+      "1782140219477.png",
+      "1782140219478.png",
+      "1782140219479.jpg",
+      "1782140219480.png",
+      "1782140219481.png",
+      "1782140219482.png",
+      "1782140219483.png",
+      "1782140219484.png",
+      "1782140219485.png",
+      "1782140219486.png",
+      "1782140219487.png",
+      "1782140219488.png",
+      "1782140219489.png",
+      "1782140219490.png",
+      "1782140219491.png",
+      "1782140219492.png",
+      "1782140219493.png",
+      "1782140219494.png",
+      "1782140219495.jpg",
+      "1782140219496.png",
+      "1782140219497.png",
+      "1782140219498.png",
+      "1782140219499.jpg",
+      "1782140219500.png",
+      "1782140219501.png",
+      "1782140219502.png",
+      "1782140219503.png",
+      "1782140219504.png",
+      "1782140219505.png",
+      "1782140219506.png",
+      "1782140219507.png",
+      "1782140219508.png",
+      "1782140219509.png",
+      "1782140219510.png",
+      "1782140219511.png",
+      "1782140219512.png",
+      "1782140219513.png",
+      "1782140219514.png",
+      "1782140219515.png",
+      "1782140219516.png",
+      "1782140219517.png",
+      "1782140219518.png",
+      "1782140219519.png",
+      "1782140219520.png",
+      "1782140219521.png",
+      "1782140219522.png",
+      "1782140219523.png",
+      "1782140219524.png",
+      "1782140219525.png",
+      "1782140219526.jpg",
+      "1782140219527.jpg",
+      "1782140219528.png",
+      "1782140219529.png",
+      "1782140219530.png",
+      "1782140219531.png",
+      "1782140219532.png",
+      "1782140219533.png",
+      "1782140219534.jpg",
+      "1782140219535.png",
+      "1782140219536.png",
+      "1782140219537.png",
+      "1782140219538.png",
+      "1782140219539.png",
+      "1782140219540.png",
+      "1782140219541.png",
+      "1782140219542.png",
+      "1782140219543.png",
+      "1782140219544.png",
+      "1782140219545.png",
+      "1782140219546.png",
+      "1782140219547.png",
+      "1782140219548.png",
+      "1782140219549.png",
+      "1782140219550.png",
+      "1782140219551.png",
+      "1782140219552.png",
+      "1782140219553.png",
+      "1782140219554.png",
+      "1782140219555.png",
+      "1782140219556.png",
+      "1782140219557.png",
+      "1782140219558.png",
+      "1782140219559.png",
+      "1782140219560.png",
+      "1782140219561.png",
+      "1782140219562.png",
+      "1782140219563.png",
+      "1782140219564.png",
+      "1782140219565.png",
+      "1782140219566.png",
+      "1782140219567.jpg",
+      "1782140219568.png",
+      "1782140219569.png",
+      "1782140219570.png",
+      "1782140219571.png",
+      "1782140219572.png",
+      "1782140219573.png",
+      "1782140219574.jpg",
+      "1782140219575.jpg",
+      "1782140219576.png",
+      "1782140219577.jpg",
+      "1782140219578.png",
+      "1782140219579.png",
+      "1782140219580.jpg",
+      "1782140219581.png",
+      "1782140219582.png",
+      "1782140219583.png",
+      "1782140219584.png",
+      "1782140219585.jpg",
+      "1782140219586.png",
+      "1782140219587.png",
+      "1782140219588.png",
+      "1782140219589.jpg",
+      "1782140219590.png",
+      "1782140219591.png",
+      "1782140219592.png",
+      "1782140219593.png",
+      "1782140219594.png",
+      "1782140219595.png",
+      "1782140219596.jpg",
+      "1782140219597.jpg",
+      "1782140219598.png",
+      "1782140219599.png",
+      "1782140219600.png",
+      "1782140219601.png",
+      "1782140219602.png",
+      "1782140219603.png",
+      "1782140219604.png",
+      "1782140219605.png",
+      "1782140219606.png",
+      "1782140219607.png",
+      "1782140219608.png",
+      "1782140219609.png",
+      "1782140219610.png",
+      "1782140219611.png",
+      "1782140219612.png",
+      "1782140219613.png",
+      "1782140219614.png",
+      "1782140219615.png",
+      "1782140219616.png",
+      "1782140219617.png",
+      "1782140219618.png",
+      "1782140219619.png",
+      "1782140219620.png",
+      "1782140219621.png",
+      "1782140219622.png",
+      "1782140219623.png",
+      "1782140219624.png",
+      "1782140219625.png",
+      "1782140219626.png",
+      "1782140219627.png",
+      "1782140219628.png",
+      "1782140219629.png",
+      "1782140219630.png",
+      "1782140219631.png",
+      "1782140219632.png",
+      "1782140219633.png",
+      "1782140219634.png",
+      "1782140219635.jpg",
+      "1782140219636.gif",
+      "1782140219637.jpg",
+      "1782140219638.gif",
+      "1782140219639.png",
+      "1782140219640.png",
+      "1782140219641.png",
+      "1782140219642.png",
+      "1782140219643.jpg",
+      "1782140219644.png",
+      "1782140219645.png",
+      "1782140219646.png",
+      "1782140219647.jpg",
+      "1782140219648.png",
+      "1782140219649.png",
+      "1782140219650.png",
+      "1782140219651.png",
+      "1782140219652.png",
+      "1782140219653.png",
+      "1782140219654.png",
+      "1782140219655.png",
+      "1782140219656.png",
+      "1782140219657.png",
+      "1782140219658.png",
+      "1782140219659.png",
+      "1782140219660.png",
+      "1782140219661.png",
+      "1782140219662.png",
+      "1782140219663.png",
+      "1782140219664.png",
+      "1782140219665.png",
+      "1782140219666.png",
+      "1782140219667.png",
+      "1782140219668.png",
+      "1782140219669.jpg",
+      "1782140219670.png",
+      "1782140219671.png",
+      "1782140219672.png",
+      "1782140219673.jpg",
+      "1782140219674.png",
+      "1782140219675.png",
+      "1782140219676.jpg",
+      "1782140219677.png",
+      "1782140219678.png",
+      "1782140219679.png",
+      "1782140219680.jpg",
+      "1782140219681.png",
+      "1782140219682.png",
+      "1782140219683.png",
+      "1782140219684.png",
+      "1782140219685.png",
+      "1782140219686.jpg",
+      "1782140219687.jpg",
+      "1782140219688.png",
+      "1782140219689.png",
+      "1782140219690.png",
+      "1782140219691.png",
+      "1782140219692.png",
+      "1782140219693.png",
+      "1782140219694.png",
+      "1782140219695.png",
+      "1782140219696.png",
+      "1782140219697.png",
+      "1782140219698.png",
+      "1782140219699.png",
+      "1782140219700.png",
+      "1782140219701.png",
+      "1782140219702.png",
+      "1782140219703.png",
+      "1782140219704.png",
+      "1782140219705.png",
+      "1782140219706.png",
+      "1782140219707.png",
+      "1782140219708.png",
+      "1782140219709.png",
+      "1782140219710.png",
+      "1782140219711.png",
+      "1782140219712.png",
+      "1782140219713.png",
+      "1782140219714.jpg",
+      "1782140219715.png",
+      "1782140219716.png",
+      "1782140219717.jpg",
+      "1782140219718.png",
+      "1782140219719.jpeg",
+      "1782140219720.png",
+      "1782140219721.png",
+      "1782140219722.png",
+      "1782140219723.png",
+      "1782140219724.png",
+      "1782140219725.png",
+      "1782140219726.png",
+      "1782140219727.png",
+      "1782140219728.png",
+      "1782140219729.png",
+      "1782140219730.png",
+      "1782140219731.png",
+      "1782140219732.png",
+      "1782140219733.png",
+      "1782140219734.png",
+      "1782140219735.png",
+      "1782140219736.png",
+      "1782140219737.png",
+      "1782140219738.png",
+      "1782140219739.png",
+      "1782140219740.png",
+      "1782140219741.png",
+      "1782140219742.png",
+      "1782140219743.png",
+      "1782140219744.png",
+      "1782140219745.png",
+      "1782140219746.png",
+      "1782140219747.png",
+      "1782140219748.png",
+      "1782140219749.png",
+      "1782140219750.png",
+      "1782140219751.png",
+      "1782140219752.png",
+      "1782140219753.png",
+      "1782140219754.png",
+      "1782140219755.png",
+      "1782140219756.png",
+      "1782140219757.png",
+      "1782140219758.png",
+      "1782140219759.png",
+      "1782140219760.png",
+      "1782140219761.png",
+      "1782140219762.png",
+      "1782140219763.png",
+      "1782140219764.png",
+      "1782140219765.png",
+      "1782140219766.png",
+      "1782140219767.jpg",
+      "1782140219768.png",
+      "1782140219769.jpg",
+      "1782140219770.png",
+      "1782140219771.png",
+      "1782140219772.jpg",
+      "1782140219773.png",
+      "1782140219774.jpg",
+      "1782140219775.png",
+      "1782140219776.png",
+      "1782140229424.jpg",
+      "1782363747916.jpg",
+      "1782442068259.jpg",
+      "1782495303415.jpg",
+      "1782495303455.png",
+      "1782619046256.png",
+      "1782619066740.png",
+      "1784544020160.jpg",
+      "1784750424337.jpg",
+      "1784750516887.jpg",
+      "1784750863324.jpg",
+      "1788835758051.webp",
+      "1788836026707.webp",
+      "1788836190568.webp",
+      "1788836253272.webp",
+      "20260714151124.jpg"
+    ]
+  },
+  "durationMs": 3639
+}
