@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2026-11-08T16:10:53.675Z",
+  "dryRun": true,
+  "durationMs": 111681,
+  "config": "config/scrape-sources.json",
+  "outputs": {
+    "json": "data/channels.json",
+    "csv": "data/seed-data.csv"
+  },
+  "sources": [
+    {
+      "id": "mytvsat",
+      "kind": "encrypted-json",
+      "role": "scraped",
+      "ok": true,
+      "ms": 9,
+      "error": null,
+      "channels": 342,
+      "stats": {
+        "bytes": 270272,
+        "rows": 342
+      }
+    }
+  ],
+  "probe": {
+    "checked": 469,
+    "okay": 309,
+    "failed": 160,
+    "droppedChannels": 65,
+    "promoted": 15,
+    "scope": "scraped",
+    "enabled": true
+  },
+  "merge": {
+    "existing": 329,
+    "baseline": 0,
+    "scraped": 277,
+    "added": 329,
+    "merged": 277,
+    "duplicatesCollapsed": 0
+  },
+  "categories": 20,
+  "summary": {
+    "channels": 329,
+    "sources": 199,
+    "withSources": 92,
+    "categories": 20,
+    "byCategory": {
+      "Turkish": 38,
+      "Movies & Series": 37,
+      "Regional": 33,
+      "Entertainment": 24,
+      "Persiana": 22,
+      "National": 21,
+      "GEM TV Networks": 20,
+      "News": 18,
+      "Arabic": 17,
+      "Music": 16,
+      "Sports": 15,
+      "Kids & Teens": 14,
+      "Radio - Music": 12,
+      "Religious": 9,
+      "Kurdish": 8,
+      "Documentary": 8,
+      "Telewebion": 8,
+      "Radio - News": 5,
+      "Afghanistan": 3,
+      "International": 1
+    }
+  },
+  "hosts": {
+    "ncdn.telewebion.ir": 60,
+    "shd-gcp-live.edgenextcdn.net": 10,
+    "46.245.122.7": 9,
+    "10g.vitarani.com": 7,
+    "northtelecom.b-cdn.net": 7,
+    "livetv.powerapp.com.tr": 5,
+    "cp12.adabmedia.com": 4,
+    "serversecond.ardanmi.com": 4,
+    "main.ardanmi.com": 4,
+    "gems1.ardanmi.com": 4,
+    "live.duhnet.tv": 3,
+    "ca.onetvapi.win": 3,
+    "piraxy.tamashaland.com": 3,
+    "gemtv.ardanmi.com": 2,
+    "river.ardanmi.com": 2
+  },
+  "validation": {
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  "problems": []
+}
