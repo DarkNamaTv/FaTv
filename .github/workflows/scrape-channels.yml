@@ -1,0 +1,78 @@
+name: Scrape channels
+
+on:
+  schedule:
+    # Every day at 03:00 UTC (06:30 Tehran).
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    inputs:
+      min_channels:
+        description: 'Fail the run below this many channels'
+        required: false
+        default: '20'
+      dry_run:
+        description: 'Scrape and report without writing or committing the catalog'
+        type: boolean
+        default: false
+      commit_report:
+        description: 'Commit reports/scrape-report.json (debugging a run from the repo)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-channels
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: Scrape → data/channels.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Unit tests
+        run: npm test
+
+      - name: Scrape sources
+        env:
+          MYTVSAT_AES_KEY_HEX: ${{ secrets.MYTVSAT_AES_KEY_HEX }}
+          MYTVSAT_AES_IV_HEX: ${{ secrets.MYTVSAT_AES_IV_HEX }}
+        run: |
+          node scripts/scrape-channels.mjs \
+            --min-channels "${{ inputs.min_channels || '20' }}" \
+            --report reports/scrape-report.json \
+            ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Upload scrape report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-report
+          path: reports/
+          if-no-files-found: ignore
+          retention-days: 30
+
+      - name: Commit refreshed catalog
+        if: ${{ success() && (!inputs.dry_run || inputs.commit_report) }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ "${{ inputs.dry_run }}" != "true" ]; then git add -A data/; fi
+          if [ "${{ inputs.commit_report }}" = "true" ]; then git add -f reports/scrape-report.json; fi
+          if git diff --cached --quiet; then
+            echo "Nothing to commit — the catalog is unchanged."
+            exit 0
+          fi
+          git commit -m "chore(catalog): refresh scraped channels [skip ci]"
+          git push origin "HEAD:${{ github.ref_name }}"
