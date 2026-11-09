@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "tv-scrap/scrape-channels",
-  "generatedAt": "2026-11-08T14:08:28.038Z",
+  "generatedAt": "2026-11-09T10:58:45.976Z",
   "count": 329,
   "channels": [
     {
@@ -2436,7 +2436,7 @@
       "channel_image": "https://raw.githubusercontent.com/DarkNamaTv/FaTv/main/data/logos/1782140219550.png",
       "channel_url": "http://46.245.122.7:8080/hls/gmkid/stream.m3u8",
       "channel_referer": "https://mytvsat.tv",
-      "channel_origin": null,
+      "channel_origin": "https://salmal1000.com",
       "need_vpn": 0,
       "for_iran": 1,
       "popular": 2292511,
@@ -2815,7 +2815,7 @@
       "channel_image": "https://raw.githubusercontent.com/DarkNamaTv/FaTv/main/data/logos/1782140219549.png",
       "channel_url": "http://46.245.122.7:8080/hls/gmjun/stream.m3u8",
       "channel_referer": "https://mytvsat.tv",
-      "channel_origin": null,
+      "channel_origin": "https://salmal1000.com",
       "need_vpn": 0,
       "for_iran": 1,
       "popular": 1673712,
@@ -3625,7 +3625,7 @@
       "channel_image": "https://raw.githubusercontent.com/DarkNamaTv/FaTv/main/data/logos/1782140219547.png",
       "channel_url": "http://46.245.122.7:8080/hls/gmfit/stream.m3u8",
       "channel_referer": "https://mytvsat.tv",
-      "channel_origin": null,
+      "channel_origin": "https://mytvsat.tv",
       "need_vpn": 0,
       "for_iran": 1,
       "popular": 806521,
