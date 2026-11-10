@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "tv-scrap/scrape-channels",
-  "generatedAt": "2026-11-09T10:58:45.976Z",
+  "generatedAt": "2026-11-10T10:49:56.876Z",
   "count": 329,
   "channels": [
     {
@@ -112,6 +112,15 @@
           "channel_referer": "https://mytvsat.tv",
           "channel_origin": null,
           "country": "iran",
+          "isvip": 0
+        },
+        {
+          "ID": 8449339,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://shabake3.bitaneshan.com/live/GhWDEnSB_K1CAs1glTxFow__/master.m3u8",
+          "channel_referer": "https://salmal1000.com/",
+          "channel_origin": "https://salmal1000.com",
+          "country": null,
           "isvip": 0
         }
       ]
