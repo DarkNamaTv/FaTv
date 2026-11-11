@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "tv-scrap/scrape-channels",
-  "generatedAt": "2026-11-10T10:49:56.876Z",
+  "generatedAt": "2026-11-11T10:26:38.254Z",
   "count": 329,
   "channels": [
     {
@@ -2035,7 +2035,7 @@
       "channel_name_en": "FX Cartoon",
       "channel_image": "https://raw.githubusercontent.com/DarkNamaTv/FaTv/main/data/logos/1782140219437.png",
       "channel_url": "https://toonixhls.wns.live/hls/stream.m3u8",
-      "channel_referer": null,
+      "channel_referer": "https://mytvsat.tv/",
       "channel_origin": null,
       "need_vpn": 0,
       "for_iran": 1,
