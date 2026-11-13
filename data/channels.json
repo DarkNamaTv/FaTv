@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "tv-scrap/scrape-channels",
-  "generatedAt": "2026-11-12T10:43:34.977Z",
+  "generatedAt": "2026-11-13T10:37:09.066Z",
   "count": 330,
   "channels": [
     {
@@ -556,7 +556,7 @@
       "channel_image": "https://raw.githubusercontent.com/DarkNamaTv/FaTv/main/data/logos/1782140219548.png",
       "channel_url": "https://cp12.adabmedia.com/hls/gmfood/stream.m3u8",
       "channel_referer": "https://mytvsat.tv",
-      "channel_origin": null,
+      "channel_origin": "https://salmal1000.com",
       "need_vpn": 0,
       "for_iran": 1,
       "popular": 90456202,
