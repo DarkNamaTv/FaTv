@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "tv-scrap/scrape-channels",
-  "generatedAt": "2026-11-25T12:12:35.756Z",
+  "generatedAt": "2026-11-26T11:57:50.938Z",
   "count": 330,
   "channels": [
     {
@@ -637,6 +637,15 @@
           "channel_origin": "https://behnaman1010.com/",
           "country": "worldwide",
           "isvip": 0
+        },
+        {
+          "ID": 6738320,
+          "title": "سرورخارج2",
+          "channel_url": "https://stream.bitaneshan.com/play/4Ja_ndL9i6IpM09k9i_nAg__/stream_1.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com/",
+          "country": "worldwide",
+          "isvip": 0
         }
       ]
     },
@@ -698,6 +707,15 @@
           "ID": 3575069,
           "title": "Server (mytvsat)",
           "channel_url": "https://stream.behbodin.com/live/VTFD8oMFwg3rLG_Q_krU3Q__/stream_1.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
+          "isvip": 0
+        },
+        {
+          "ID": 1653633,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/live/VTFD8oMFwg3rLG_Q_krU3Q__/stream_1.m3u8",
           "channel_referer": "https://behnaman1010.com/",
           "channel_origin": "https://behnaman1010.com",
           "country": null,
@@ -894,6 +912,15 @@
           "ID": 3400301,
           "title": "سرورخارج2",
           "channel_url": "https://stream.behbodin.com/play/_BtbWCC1rQ8iz_9Pqw3v7A__/stream_1.m3u8",
+          "channel_referer": null,
+          "channel_origin": null,
+          "country": "worldwide",
+          "isvip": 0
+        },
+        {
+          "ID": 4406062,
+          "title": "سرورخارج2",
+          "channel_url": "https://stream.bitaneshan.com/play/_BtbWCC1rQ8iz_9Pqw3v7A__/stream_1.m3u8",
           "channel_referer": null,
           "channel_origin": null,
           "country": "worldwide",
@@ -1111,6 +1138,15 @@
           "channel_url": "http://91.107.191.65/live/AmU5m674ReZEHiZaGUcK9A__/master.m3u8",
           "channel_referer": "https://salmal1000.com/",
           "channel_origin": "https://salmal1000.com",
+          "country": null,
+          "isvip": 0
+        },
+        {
+          "ID": 3541641,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/QG5qgUo6kIuQjklFE933EQ__/stream_1.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
           "country": null,
           "isvip": 0
         }
@@ -1358,6 +1394,15 @@
           "channel_origin": "https://behnaman1010.com",
           "country": "worldwide",
           "isvip": 0
+        },
+        {
+          "ID": 9245915,
+          "title": "سرورخارج2",
+          "channel_url": "https://stream.bitaneshan.com/play/oD3lmPUCdzEEdL_Mp4QK5Q__/stream_1.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": "worldwide",
+          "isvip": 0
         }
       ]
     },
@@ -1414,6 +1459,15 @@
           "channel_origin": "https://behnaman1010.com/",
           "country": "worldwide",
           "isvip": 0
+        },
+        {
+          "ID": 8191336,
+          "title": "سرورخارج2",
+          "channel_url": "https://stream.bitaneshan.com/play/qLz4OHmLcc5JShZP684pwA__/stream_1.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com/",
+          "country": "worldwide",
+          "isvip": 0
         }
       ]
     },
@@ -1443,6 +1497,15 @@
           "channel_origin": "https://salmal1000.com",
           "country": "worldwide",
           "isvip": 0
+        },
+        {
+          "ID": 6127462,
+          "title": "سرورخارج2",
+          "channel_url": "https://stream.bitaneshan.com/play/gOEm13N_4_s9FnFiizvHmg__/stream_1.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": "worldwide",
+          "isvip": 0
         }
       ]
     },
@@ -1470,6 +1533,15 @@
           "channel_url": "https://persia-varzesh4.ardanmi.com/live/rriPKConovyZYqcJW6Av8A__/master.m3u8",
           "channel_referer": "https://salmal1000.com/",
           "channel_origin": "https://salmal1000.com",
+          "country": "worldwide",
+          "isvip": 0
+        },
+        {
+          "ID": 5870352,
+          "title": "سرورخارج2",
+          "channel_url": "https://stream.bitaneshan.com/play/2XvA70UVb09xXRPxh4bIvQ__/stream_1.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
           "country": "worldwide",
           "isvip": 0
         }
@@ -1782,6 +1854,15 @@
           "channel_referer": "https://salintv.com/",
           "channel_origin": "https://salintv.com",
           "country": "worldwide",
+          "isvip": 0
+        },
+        {
+          "ID": 3487583,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/YxA_8AArlqCLaxOX5sjbhw__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com/",
+          "country": null,
           "isvip": 0
         }
       ]
@@ -2549,6 +2630,15 @@
           "channel_origin": "https://behnaman1010.com",
           "country": null,
           "isvip": 0
+        },
+        {
+          "ID": 6901974,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/WtezoA6dIgVUFGyFHDRhGQ__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
+          "isvip": 0
         }
       ]
     },
@@ -2621,6 +2711,15 @@
           "ID": 9081111,
           "title": "سرورخارج2",
           "channel_url": "https://stream.behbodin.com/play/IRGVFAp0yW4kDy1C8nvrJA__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com/",
+          "country": "worldwide",
+          "isvip": 0
+        },
+        {
+          "ID": 8914855,
+          "title": "سرورخارج2",
+          "channel_url": "https://stream.bitaneshan.com/play/IRGVFAp0yW4kDy1C8nvrJA__/master.m3u8",
           "channel_referer": "https://behnaman1010.com/",
           "channel_origin": "https://behnaman1010.com/",
           "country": "worldwide",
@@ -3013,6 +3112,15 @@
           "channel_origin": "https://behnaman1010.com",
           "country": "worldwide",
           "isvip": 0
+        },
+        {
+          "ID": 4870857,
+          "title": "سرورخارج2",
+          "channel_url": "https://stream.bitaneshan.com/play/dXeGPg59uduaEASEr_e5VA__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": "worldwide",
+          "isvip": 0
         }
       ]
     },
@@ -3184,6 +3292,15 @@
           "channel_origin": "https://behnaman1010.com",
           "country": null,
           "isvip": 0
+        },
+        {
+          "ID": 3502887,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/VATN2W_a8D0tPoRh72INYw__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
+          "isvip": 0
         }
       ]
     },
@@ -3246,6 +3363,15 @@
           "ID": 4403193,
           "title": "Server (mytvsat)",
           "channel_url": "https://stream.behbodin.com/play/ianoxOVF7Mm7Z4Sz8_gktQ__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
+          "isvip": 0
+        },
+        {
+          "ID": 7121489,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/ianoxOVF7Mm7Z4Sz8_gktQ__/master.m3u8",
           "channel_referer": "https://behnaman1010.com/",
           "channel_origin": "https://behnaman1010.com",
           "country": null,
@@ -3430,6 +3556,15 @@
           "channel_origin": null,
           "country": "iran",
           "isvip": 0
+        },
+        {
+          "ID": 6152176,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/X6IFwUpElZoGz8i4VrVz4A__/stream_1.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com/",
+          "country": null,
+          "isvip": 0
         }
       ]
     },
@@ -3458,6 +3593,15 @@
           "channel_referer": "https://salmal1000.com/",
           "channel_origin": "https://salmal1000.com",
           "country": "worldwide",
+          "isvip": 0
+        },
+        {
+          "ID": 3057705,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/9H_JyLVjGwsA4PrMBTIJXg__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
           "isvip": 0
         }
       ]
@@ -3560,6 +3704,15 @@
           "ID": 7120678,
           "title": "Server (mytvsat)",
           "channel_url": "https://stream.behbodin.com/play/1TWjBugim7IGzel59FpKuQ__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
+          "isvip": 0
+        },
+        {
+          "ID": 3726079,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/1TWjBugim7IGzel59FpKuQ__/master.m3u8",
           "channel_referer": "https://behnaman1010.com/",
           "channel_origin": "https://behnaman1010.com",
           "country": null,
@@ -4482,6 +4635,15 @@
           "ID": 3036591,
           "title": "Server (mytvsat)",
           "channel_url": "https://stream.behbodin.com/play/Ohq_GnWxn97GLy1ta5bH6g__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
+          "isvip": 0
+        },
+        {
+          "ID": 1671550,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/Ohq_GnWxn97GLy1ta5bH6g__/master.m3u8",
           "channel_referer": "https://behnaman1010.com/",
           "channel_origin": "https://behnaman1010.com",
           "country": null,
@@ -5762,6 +5924,15 @@
           "channel_referer": "https://salmal1000.com/",
           "channel_origin": "https://salmal1000.com/",
           "country": "worldwide",
+          "isvip": 0
+        },
+        {
+          "ID": 3502888,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/VATN2W_a8D0tPoRh72INYw__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
           "isvip": 0
         }
       ]
@@ -7879,6 +8050,15 @@
           "ID": 1348331,
           "title": "Server (mytvsat)",
           "channel_url": "https://stream.behbodin.com/play/QcNw5Gc0gMhuqNTT9fXDAQ__/master.m3u8",
+          "channel_referer": "https://behnaman1010.com/",
+          "channel_origin": "https://behnaman1010.com",
+          "country": null,
+          "isvip": 0
+        },
+        {
+          "ID": 1366105,
+          "title": "Server (mytvsat)",
+          "channel_url": "https://stream.bitaneshan.com/play/QcNw5Gc0gMhuqNTT9fXDAQ__/master.m3u8",
           "channel_referer": "https://behnaman1010.com/",
           "channel_origin": "https://behnaman1010.com",
           "country": null,
